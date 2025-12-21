@@ -49,7 +49,7 @@
         "customSections": [
           "Board",
           "Mana_Zone",
-          "Mana_Deck"
+          "Mana"
         ],
         "layout": {
           "direction": "column",
@@ -62,7 +62,7 @@
               },
               "content": [
                 {
-                  "section": "Mana_Deck",
+                  "section": "Mana",
                   "style": {
                     "width": "13.9vh"
                   }
@@ -95,12 +95,12 @@
         "autoPlayFromHand": {
           "Creature": "Stack",
           "Spell": "Stack",
-          "Mana": "Mana_Deck"
+          "Mana": "Mana"
         },
         "autoPlayFromStack": {
           "Creature": "Board",
           "Spell": "Discard",
-          "Mana": "Mana_Deck"
+          "Mana": "Mana"
         },
         "sectionsDict": {
           "Hand": {
@@ -238,8 +238,8 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mana_Deck": {
-            "title": "Mana_Deck",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "yes",
             "height": "18",
             "alignment": "DECK",
