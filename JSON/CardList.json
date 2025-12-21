@@ -14,10 +14,15 @@
 		"name": "Radiant Prism",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-02": {			
 		"id": "CS01-01-02",		
@@ -34,10 +39,15 @@
 		"name": "Dawnlight Sigil",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-03": {			
 		"id": "CS01-01-03",		
@@ -54,10 +64,15 @@
 		"name": "Bright Spark",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-04": {			
 		"id": "CS01-01-04",		
@@ -74,10 +89,15 @@
 		"name": "Shining Entrance",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-05": {			
 		"id": "CS01-01-05",		
@@ -94,10 +114,15 @@
 		"name": "Holy Infantryman",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 1,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-01-06": {			
 		"id": "CS01-01-06",		
@@ -114,10 +139,15 @@
 		"name": "Sacred Lancer",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 2,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-01-07": {			
 		"id": "CS01-01-07",		
@@ -134,10 +164,15 @@
 		"name": "Angelic Banner Bearer",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 1,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-01-08": {			
 		"id": "CS01-01-08",		
@@ -154,10 +189,15 @@
 		"name": "Luminae Archangel",		
 		"type": "Creature",		
 		"cost": 9,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 5,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-01-09": {			
 		"id": "CS01-01-09",		
@@ -174,10 +214,15 @@
 		"name": "Lightveil Angel",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 1,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-01-10": {			
 		"id": "CS01-01-10",		
@@ -194,10 +239,15 @@
 		"name": "Luminae Crusade",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-11": {			
 		"id": "CS01-01-11",		
@@ -214,10 +264,15 @@
 		"name": "Radiant Arbiter",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 3,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-01-12": {			
 		"id": "CS01-01-12",		
@@ -234,10 +289,15 @@
 		"name": "Glorywing Herald",		
 		"type": "Creature",		
 		"cost": 8,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 4,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-01-13": {			
 		"id": "CS01-01-13",		
@@ -254,10 +314,15 @@
 		"name": "Lightbringer of the Sanctuary",		
 		"type": "Creature",		
 		"cost": 6,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 2,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-01-14": {			
 		"id": "CS01-01-14",		
@@ -274,10 +339,15 @@
 		"name": "Arbiter of Judgement",		
 		"type": "Creature",		
 		"cost": 7,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 5,		
-		"HP": 6,		
+		"HP": 6		
 	},			
 	"CS01-01-15": {			
 		"id": "CS01-01-15",		
@@ -294,10 +364,15 @@
 		"name": "Final Judgement",		
 		"type": "Spell",		
 		"cost": 10,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-16": {			
 		"id": "CS01-01-16",		
@@ -314,10 +389,15 @@
 		"name": "Angel of Blessings",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 2,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-01-17": {			
 		"id": "CS01-01-17",		
@@ -334,10 +414,15 @@
 		"name": "Dawnshaper Luminary",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 3,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-01-18": {			
 		"id": "CS01-01-18",		
@@ -354,10 +439,15 @@
 		"name": "Lightbinding Chains",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-19": {			
 		"id": "CS01-01-19",		
@@ -374,10 +464,15 @@
 		"name": "Keeper of Celestial Light",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 4,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-01-20": {			
 		"id": "CS01-01-20",		
@@ -394,10 +489,15 @@
 		"name": "Argent Sage",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 2,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-01-21": {			
 		"id": "CS01-01-21",		
@@ -414,10 +514,15 @@
 		"name": "Radiant Echo",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-22": {			
 		"id": "CS01-01-22",		
@@ -434,10 +539,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-23": {			
 		"id": "CS01-01-23",		
@@ -454,10 +564,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-24": {			
 		"id": "CS01-01-24",		
@@ -474,10 +589,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-25": {			
 		"id": "CS01-01-25",		
@@ -494,10 +614,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-26": {			
 		"id": "CS01-01-26",		
@@ -514,10 +639,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-27": {			
 		"id": "CS01-01-27",		
@@ -534,10 +664,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-28": {			
 		"id": "CS01-01-28",		
@@ -554,10 +689,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-29": {			
 		"id": "CS01-01-29",		
@@ -574,10 +714,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-01-30": {			
 		"id": "CS01-01-30",		
@@ -594,10 +739,15 @@
 		"name": "High Luminary Seraphis",		
 		"type": "Creature",		
 		"cost": 10,		
-		"Faction": "Luminae Order",		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Angel",		
 		"ATK": 6,		
-		"HP": 6,		
+		"HP": 6		
 	},			
 	"CS01-02-01": {			
 		"id": "CS01-02-01",		
@@ -614,10 +764,15 @@
 		"name": "Dragon's Scale",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-02": {			
 		"id": "CS01-02-02",		
@@ -634,10 +789,15 @@
 		"name": "Emberfang Talisman",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-03": {			
 		"id": "CS01-02-03",		
@@ -654,10 +814,15 @@
 		"name": "Furious Dragonblader",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 4,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-02-04": {			
 		"id": "CS01-02-04",		
@@ -674,10 +839,15 @@
 		"name": "Blazing Burst",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-05": {			
 		"id": "CS01-02-05",		
@@ -694,10 +864,15 @@
 		"name": "Everburning Dragon",		
 		"type": "Creature",		
 		"cost": 6,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 5,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-02-06": {			
 		"id": "CS01-02-06",		
@@ -714,10 +889,15 @@
 		"name": "Drakarian Brawler",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 1,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-02-07": {			
 		"id": "CS01-02-07",		
@@ -734,10 +914,15 @@
 		"name": "Swift Salamander",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 1,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-02-08": {			
 		"id": "CS01-02-08",		
@@ -754,10 +939,15 @@
 		"name": "Drakarian Student",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 2,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-02-09": {			
 		"id": "CS01-02-09",		
@@ -774,10 +964,15 @@
 		"name": "Smoldering Embermaw",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 2,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-02-10": {			
 		"id": "CS01-02-10",		
@@ -794,10 +989,15 @@
 		"name": "Ashwing Drake",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 5,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-02-11": {			
 		"id": "CS01-02-11",		
@@ -814,10 +1014,15 @@
 		"name": "Flamespit Whelp",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 3,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-02-12": {			
 		"id": "CS01-02-12",		
@@ -834,10 +1039,15 @@
 		"name": "Emberfang Prowler",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 2,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-02-13": {			
 		"id": "CS01-02-13",		
@@ -854,10 +1064,15 @@
 		"name": "Drakarian Emberling",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 2,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-02-14": {			
 		"id": "CS01-02-14",		
@@ -874,10 +1089,15 @@
 		"name": "Might of the Clans",		
 		"type": "Spell",		
 		"cost": 5,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-15": {			
 		"id": "CS01-02-15",		
@@ -894,10 +1114,15 @@
 		"name": "Warcry",		
 		"type": "Spell",		
 		"cost": 1,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-16": {			
 		"id": "CS01-02-16",		
@@ -914,10 +1139,15 @@
 		"name": "Everburning Wrath",		
 		"type": "Spell",		
 		"cost": 6,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-17": {			
 		"id": "CS01-02-17",		
@@ -934,10 +1164,15 @@
 		"name": "Hermit Dragon",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 0,		
-		"HP": 10,		
+		"HP": 10		
 	},			
 	"CS01-02-18": {			
 		"id": "CS01-02-18",		
@@ -954,10 +1189,15 @@
 		"name": "Elder Dragon of Destruction, Ashflame",		
 		"type": "Creature",		
 		"cost": 16,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 10,		
-		"HP": 10,		
+		"HP": 10		
 	},			
 	"CS01-02-19": {			
 		"id": "CS01-02-19",		
@@ -974,10 +1214,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-20": {			
 		"id": "CS01-02-20",		
@@ -994,10 +1239,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-21": {			
 		"id": "CS01-02-21",		
@@ -1014,10 +1264,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-22": {			
 		"id": "CS01-02-22",		
@@ -1034,10 +1289,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-23": {			
 		"id": "CS01-02-23",		
@@ -1054,10 +1314,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-24": {			
 		"id": "CS01-02-24",		
@@ -1074,10 +1339,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-25": {			
 		"id": "CS01-02-25",		
@@ -1094,10 +1364,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-26": {			
 		"id": "CS01-02-26",		
@@ -1114,10 +1389,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-27": {			
 		"id": "CS01-02-27",		
@@ -1134,10 +1414,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-28": {			
 		"id": "CS01-02-28",		
@@ -1154,10 +1439,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-29": {			
 		"id": "CS01-02-29",		
@@ -1174,10 +1464,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-02-30": {			
 		"id": "CS01-02-30",		
@@ -1194,10 +1489,15 @@
 		"name": "Ignis the Great Unifier",		
 		"type": "Creature",		
 		"cost": 7,		
-		"Faction": "Drakarian Clans",		
+		"Faction": [		
+			"Drakarian Clans"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Dragon",		
 		"ATK": 6,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-03-01": {			
 		"id": "CS01-03-01",		
@@ -1214,10 +1514,15 @@
 		"name": "Abyssal Crystal",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-02": {			
 		"id": "CS01-03-02",		
@@ -1234,10 +1539,15 @@
 		"name": "Tidal Fragment",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-03": {			
 		"id": "CS01-03-03",		
@@ -1254,10 +1564,15 @@
 		"name": "Abyssal Dive",		
 		"type": "Spell",		
 		"cost": 1,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-04": {			
 		"id": "CS01-03-04",		
@@ -1274,10 +1589,15 @@
 		"name": "Edicts of the Court",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-05": {			
 		"id": "CS01-03-05",		
@@ -1294,10 +1614,15 @@
 		"name": "Abyssal Endgame",		
 		"type": "Spell",		
 		"cost": 25,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-06": {			
 		"id": "CS01-03-06",		
@@ -1314,10 +1639,15 @@
 		"name": "Royal Guard",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 0,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-03-07": {			
 		"id": "CS01-03-07",		
@@ -1334,10 +1664,15 @@
 		"name": "Court Scribe",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 2,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-03-08": {			
 		"id": "CS01-03-08",		
@@ -1354,10 +1689,15 @@
 		"name": "Court Assembly",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-09": {			
 		"id": "CS01-03-09",		
@@ -1374,10 +1714,15 @@
 		"name": "Tidal Wave",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-10": {			
 		"id": "CS01-03-10",		
@@ -1394,10 +1739,15 @@
 		"name": "Whirlpool of Fate",		
 		"type": "Spell",		
 		"cost": 8,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-11": {			
 		"id": "CS01-03-11",		
@@ -1414,10 +1764,15 @@
 		"name": "Crushing Undertow",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-12": {			
 		"id": "CS01-03-12",		
@@ -1434,10 +1789,15 @@
 		"name": "Currents of Resurgence",		
 		"type": "Spell",		
 		"cost": 6,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-13": {			
 		"id": "CS01-03-13",		
@@ -1454,10 +1814,15 @@
 		"name": "Abyssal Watcher",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 3,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-03-14": {			
 		"id": "CS01-03-14",		
@@ -1474,10 +1839,15 @@
 		"name": "Waveblader",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 3,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-03-15": {			
 		"id": "CS01-03-15",		
@@ -1494,10 +1864,15 @@
 		"name": "Leviathan",		
 		"type": "Creature",		
 		"cost": 7,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 5,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-03-16": {			
 		"id": "CS01-03-16",		
@@ -1514,10 +1889,15 @@
 		"name": "Maw from Below",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-17": {			
 		"id": "CS01-03-17",		
@@ -1534,10 +1914,15 @@
 		"name": "Call to Order",		
 		"type": "Spell",		
 		"cost": 9,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-18": {			
 		"id": "CS01-03-18",		
@@ -1554,10 +1939,15 @@
 		"name": "Paranoid Bureaucrat",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 0,		
-		"HP": 10,		
+		"HP": 10		
 	},			
 	"CS01-03-19": {			
 		"id": "CS01-03-19",		
@@ -1574,10 +1964,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-20": {			
 		"id": "CS01-03-20",		
@@ -1594,10 +1989,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-21": {			
 		"id": "CS01-03-21",		
@@ -1614,10 +2014,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-22": {			
 		"id": "CS01-03-22",		
@@ -1634,10 +2039,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-23": {			
 		"id": "CS01-03-23",		
@@ -1654,10 +2064,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-24": {			
 		"id": "CS01-03-24",		
@@ -1674,10 +2089,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-25": {			
 		"id": "CS01-03-25",		
@@ -1694,10 +2114,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-26": {			
 		"id": "CS01-03-26",		
@@ -1714,10 +2139,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-27": {			
 		"id": "CS01-03-27",		
@@ -1734,10 +2164,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-28": {			
 		"id": "CS01-03-28",		
@@ -1754,10 +2189,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-29": {			
 		"id": "CS01-03-29",		
@@ -1774,10 +2214,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-03-30": {			
 		"id": "CS01-03-30",		
@@ -1794,10 +2239,15 @@
 		"name": "Queen Nereida of the Abyssal Depths",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Abyssal Court",		
+		"Faction": [		
+			"Abyssal Court"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Merman",		
 		"ATK": 2,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-04-01": {			
 		"id": "CS01-04-01",		
@@ -1814,10 +2264,15 @@
 		"name": "Essence of Life",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-02": {			
 		"id": "CS01-04-02",		
@@ -1834,10 +2289,15 @@
 		"name": "Blooming Shard",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-03": {			
 		"id": "CS01-04-03",		
@@ -1854,10 +2314,15 @@
 		"name": "Animate Life",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-04": {			
 		"id": "CS01-04-04",		
@@ -1874,10 +2339,15 @@
 		"name": "Verdant Bloom",		
 		"type": "Spell",		
 		"cost": 3,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-05": {			
 		"id": "CS01-04-05",		
@@ -1894,10 +2364,15 @@
 		"name": "Giant Treant",		
 		"type": "Creature",		
 		"cost": 9,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 7,		
-		"HP": 7,		
+		"HP": 7		
 	},			
 	"CS01-04-06": {			
 		"id": "CS01-04-06",		
@@ -1914,10 +2389,15 @@
 		"name": "Recycle",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-07": {			
 		"id": "CS01-04-07",		
@@ -1934,10 +2414,15 @@
 		"name": "Elvish Ranger",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 2,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-04-08": {			
 		"id": "CS01-04-08",		
@@ -1954,10 +2439,15 @@
 		"name": "Elvish Gatherer",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 1,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-04-09": {			
 		"id": "CS01-04-09",		
@@ -1974,10 +2464,15 @@
 		"name": "Prayer to Nature",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-10": {			
 		"id": "CS01-04-10",		
@@ -1994,10 +2489,15 @@
 		"name": "Forestblade Marauder",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 3,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-04-11": {			
 		"id": "CS01-04-11",		
@@ -2014,10 +2514,15 @@
 		"name": "Sylvan Battlecaller",		
 		"type": "Creature",		
 		"cost": 4,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 3,		
-		"HP": 3,		
+		"HP": 3		
 	},			
 	"CS01-04-12": {			
 		"id": "CS01-04-12",		
@@ -2034,10 +2539,15 @@
 		"name": "Verdant Surge",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-13": {			
 		"id": "CS01-04-13",		
@@ -2054,10 +2564,15 @@
 		"name": "Elvish Monarch",		
 		"type": "Creature",		
 		"cost": 9,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 8,		
-		"HP": 8,		
+		"HP": 8		
 	},			
 	"CS01-04-14": {			
 		"id": "CS01-04-14",		
@@ -2074,10 +2589,15 @@
 		"name": "Canopy Juggernaut",		
 		"type": "Creature",		
 		"cost": 12,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Elf",		
 		"ATK": 10,		
-		"HP": 10,		
+		"HP": 10		
 	},			
 	"CS01-04-15": {			
 		"id": "CS01-04-15",		
@@ -2094,10 +2614,15 @@
 		"name": "Worldtree Awakening",		
 		"type": "Spell",		
 		"cost": 16,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-16": {			
 		"id": "CS01-04-16",		
@@ -2114,10 +2639,15 @@
 		"name": "Renewing Winds",		
 		"type": "Spell",		
 		"cost": 8,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-17": {			
 		"id": "CS01-04-17",		
@@ -2134,10 +2664,15 @@
 		"name": "Immovable Force",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 5,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-04-18": {			
 		"id": "CS01-04-18",		
@@ -2154,10 +2689,15 @@
 		"name": "Invading Rodent",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 1,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-04-19": {			
 		"id": "CS01-04-19",		
@@ -2174,10 +2714,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-20": {			
 		"id": "CS01-04-20",		
@@ -2194,10 +2739,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-21": {			
 		"id": "CS01-04-21",		
@@ -2214,10 +2764,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-22": {			
 		"id": "CS01-04-22",		
@@ -2234,10 +2789,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-23": {			
 		"id": "CS01-04-23",		
@@ -2254,10 +2814,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-24": {			
 		"id": "CS01-04-24",		
@@ -2274,10 +2839,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-25": {			
 		"id": "CS01-04-25",		
@@ -2294,10 +2864,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-26": {			
 		"id": "CS01-04-26",		
@@ -2314,10 +2889,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-27": {			
 		"id": "CS01-04-27",		
@@ -2334,10 +2914,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-28": {			
 		"id": "CS01-04-28",		
@@ -2354,10 +2939,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-29": {			
 		"id": "CS01-04-29",		
@@ -2374,10 +2964,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-04-30": {			
 		"id": "CS01-04-30",		
@@ -2394,10 +2989,15 @@
 		"name": "Elder Treant Arborus",		
 		"type": "Creature",		
 		"cost": 10,		
-		"Faction": "Verdant Coalition",		
+		"Faction": [		
+			"Verdant Coalition"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 10,		
-		"HP": 10,		
+		"HP": 10		
 	},			
 	"CS01-05-01": {			
 		"id": "CS01-05-01",		
@@ -2414,10 +3014,15 @@
 		"name": "Shard of Ruin",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-02": {			
 		"id": "CS01-05-02",		
@@ -2434,10 +3039,15 @@
 		"name": "Forsaken Relic",		
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-03": {			
 		"id": "CS01-05-03",		
@@ -2454,10 +3064,15 @@
 		"name": "Returnal",		
 		"type": "Spell",		
 		"cost": 2,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-04": {			
 		"id": "CS01-05-04",		
@@ -2474,10 +3089,15 @@
 		"name": "Darkness Dweller",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 1,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-05-05": {			
 		"id": "CS01-05-05",		
@@ -2494,10 +3114,15 @@
 		"name": "Dread Bone Lord",		
 		"type": "Creature",		
 		"cost": 7,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 3,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-05-06": {			
 		"id": "CS01-05-06",		
@@ -2514,10 +3139,15 @@
 		"name": "Ghastly Remnant",		
 		"type": "Creature",		
 		"cost": 2,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 1,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-05-07": {			
 		"id": "CS01-05-07",		
@@ -2534,10 +3164,15 @@
 		"name": "Fractured Ritual",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-08": {			
 		"id": "CS01-05-08",		
@@ -2554,10 +3189,15 @@
 		"name": "Broken Mind",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 2,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-05-09": {			
 		"id": "CS01-05-09",		
@@ -2574,10 +3214,15 @@
 		"name": "Shattered Amalgam",		
 		"type": "Creature",		
 		"cost": 10,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Demon",		
 		"ATK": 1,		
-		"HP": 1,		
+		"HP": 1		
 	},			
 	"CS01-05-10": {			
 		"id": "CS01-05-10",		
@@ -2594,10 +3239,15 @@
 		"name": "Grave Wisp",		
 		"type": "Creature",		
 		"cost": 3,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 2,		
-		"HP": 2,		
+		"HP": 2		
 	},			
 	"CS01-05-11": {			
 		"id": "CS01-05-11",		
@@ -2614,10 +3264,15 @@
 		"name": "Devastation",		
 		"type": "Spell",		
 		"cost": 8,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-12": {			
 		"id": "CS01-05-12",		
@@ -2634,10 +3289,15 @@
 		"name": "Spectral Lich",		
 		"type": "Creature",		
 		"cost": 8,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 5,		
-		"HP": 6,		
+		"HP": 6		
 	},			
 	"CS01-05-13": {			
 		"id": "CS01-05-13",		
@@ -2654,10 +3314,15 @@
 		"name": "Echo of the Damned",		
 		"type": "Creature",		
 		"cost": 9,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 4,		
-		"HP": 4,		
+		"HP": 4		
 	},			
 	"CS01-05-14": {			
 		"id": "CS01-05-14",		
@@ -2674,10 +3339,15 @@
 		"name": "Soulbinder Wraith",		
 		"type": "Creature",		
 		"cost": 6,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 4,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-05-15": {			
 		"id": "CS01-05-15",		
@@ -2694,10 +3364,15 @@
 		"name": "Shattered Storm",		
 		"type": "Spell",		
 		"cost": 4,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-16": {			
 		"id": "CS01-05-16",		
@@ -2714,10 +3389,15 @@
 		"name": "Shatterbound Spirit",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "Spirit",		
 		"ATK": 3,		
-		"HP": 5,		
+		"HP": 5		
 	},			
 	"CS01-05-17": {			
 		"id": "CS01-05-17",		
@@ -2734,10 +3414,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-18": {			
 		"id": "CS01-05-18",		
@@ -2754,10 +3439,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-19": {			
 		"id": "CS01-05-19",		
@@ -2774,10 +3464,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-20": {			
 		"id": "CS01-05-20",		
@@ -2794,10 +3489,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-21": {			
 		"id": "CS01-05-21",		
@@ -2814,10 +3514,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-22": {			
 		"id": "CS01-05-22",		
@@ -2834,10 +3539,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-23": {			
 		"id": "CS01-05-23",		
@@ -2854,10 +3564,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-24": {			
 		"id": "CS01-05-24",		
@@ -2874,10 +3589,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-25": {			
 		"id": "CS01-05-25",		
@@ -2894,10 +3614,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-26": {			
 		"id": "CS01-05-26",		
@@ -2914,10 +3639,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-27": {			
 		"id": "CS01-05-27",		
@@ -2934,10 +3664,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-28": {			
 		"id": "CS01-05-28",		
@@ -2954,10 +3689,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-29": {			
 		"id": "CS01-05-29",		
@@ -2974,10 +3714,15 @@
 		"name": "",		
 		"type": "",		
 		"cost": 0,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0,		
+		"HP": 0		
 	},			
 	"CS01-05-30": {			
 		"id": "CS01-05-30",		
@@ -2994,9 +3739,14 @@
 		"name": "Rogue Necromancer Malakar",		
 		"type": "Creature",		
 		"cost": 5,		
-		"Faction": "Shattered Remnants",		
+		"Faction": [		
+			"Shattered Remnants"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
 		"Sub-type": "",		
 		"ATK": 4,		
-		"HP": 4,		
+		"HP": 4		
 	}			
 }
