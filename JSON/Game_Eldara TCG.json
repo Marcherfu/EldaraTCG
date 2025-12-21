@@ -100,7 +100,7 @@
         "autoPlayFromStack": {
           "Creature": "Board",
           "Spell": "Discard",
-          "Mana": "Mana"
+          "Mana": "Mana Deck"
         },
         "sectionsDict": {
           "Hand": {
