@@ -1,13 +1,12 @@
 {
   "name": "EldaraTCG",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://marcherfu.github.io/EldaraTCG/IMG/EldaraTCG.png",
   "deckBuilding": {
     "mainFilters": [
       "Type",
       "Factions",
       "Cost"
     ],
-    "costCurveIgnoredTypes": [],
     "formats": [
       {
         "title": "Standard",
