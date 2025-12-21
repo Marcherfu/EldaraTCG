@@ -21,10 +21,7 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "Classic",
-        "customCategories": [
-          "Mana Deck"
-        ]
+        "gameplay": "Classic"
       }
     ]
   },
@@ -67,7 +64,7 @@
                 {
                   "section": "Mana Deck",
                   "style": {
-                    "width": "10vh"
+                    "width": "13.9vh"
                   }
                 },
                 {
@@ -93,19 +90,17 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Mana Deck"
+          "Mana"
         ],
         "autoPlayFromHand": {
           "Creature": "Stack",
           "Spell": "Stack",
-          "Mana": "Mana",
-          "Mana Deck": "Mana Deck"
+          "Mana": "Mana Deck"
         },
         "autoPlayFromStack": {
           "Creature": "Board",
           "Spell": "Discard",
           "Mana": "Mana",
-          "Mana Deck": "Board"
         },
         "sectionsDict": {
           "Hand": {
@@ -246,8 +241,8 @@
           "Mana Deck": {
             "title": "Mana Deck",
             "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "START",
+            "height": "18",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
