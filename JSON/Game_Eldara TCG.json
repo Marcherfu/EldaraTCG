@@ -48,8 +48,8 @@
       "sections": {
         "customSections": [
           "Board",
-          "Mana Zone",
-          "Mana Deck"
+          "Mana_Zone",
+          "Mana_Deck"
         ],
         "layout": {
           "direction": "column",
@@ -62,7 +62,7 @@
               },
               "content": [
                 {
-                  "section": "Mana Deck",
+                  "section": "Mana_Deck",
                   "style": {
                     "width": "13.9vh"
                   }
@@ -81,7 +81,7 @@
               },
               "content": [
                 {
-                  "section": "Mana Zone",
+                  "section": "Mana_Zone",
                   "style": false
                 }
               ],
@@ -95,12 +95,12 @@
         "autoPlayFromHand": {
           "Creature": "Stack",
           "Spell": "Stack",
-          "Mana": "Mana Deck"
+          "Mana": "Mana_Deck"
         },
         "autoPlayFromStack": {
           "Creature": "Board",
           "Spell": "Discard",
-          "Mana": "Mana Deck"
+          "Mana": "Mana_Zone"
         },
         "sectionsDict": {
           "Hand": {
@@ -206,15 +206,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Mana Zone": {
-            "title": "Mana Zone",
+          "Mana_Zone": {
+            "title": "Mana_Zone",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Mana Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -238,15 +238,15 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mana Deck": {
-            "title": "Mana Deck",
+          "Mana_Deck": {
+            "title": "Mana_Deck",
             "isHidden": "yes",
             "height": "18",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Mana Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
