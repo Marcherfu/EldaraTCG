@@ -1,0 +1,147 @@
+{
+  "name": "EldaraTCG",
+  "menuBackgroundImage": "",
+  "deckBuilding": {
+    "mainFilters": [
+      "Type",
+      "Factions",
+      "Cost"
+    ],
+    "costCurveIgnoredTypes": [],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": [
+          "Mana Deck"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "You choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have four cards in hand.",
+        "startingHandSize": 4,
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "drawPerTurn": 1
+      },
+      "countersStartingValues": [
+        30
+      ],
+      "sections": {
+        "customSections": [
+          "Board",
+          "Mana"
+        ],
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Board"
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Mana"
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "style": {
+                "width": "12vh"
+              },
+              "content": [
+                {
+                  "section": "ManaDeck"
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {
+          "Creature": "Board",
+          "Spell": "Discard",
+          "Mana": "Mana"
+        },
+        "sectionsDict": {
+          "Board": {
+            "title": "Board",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "isHorizontalAllowed": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ManaDeck": {
+            "title": "ManaDeck",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mana Deck",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "enterSpun": false
+          }
+        }
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "hideFacedDownCards": false
+    }
+  },
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cards": {
+    "dataUrl": "https://marcherfu.github.io/EldaraTCG/JSON/CardList.json",
+    "cardBackColor": "#000000"
+  }
+}

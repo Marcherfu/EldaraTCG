@@ -1,0 +1,3002 @@
+{				
+	"CS01-01-01": {			
+		"id": "CS01-01-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Radiant Prism",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Radiant Prism",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-02": {			
+		"id": "CS01-01-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Dawnlight Sigil",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Dawnlight Sigil",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-03": {			
+		"id": "CS01-01-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Bright Spark",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Bright Spark",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-04": {			
+		"id": "CS01-01-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Shining Entrance",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Shining Entrance",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-05": {			
+		"id": "CS01-01-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Holy Infantryman",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Holy Infantryman",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 1,		
+		"HP": 3,		
+	},			
+	"CS01-01-06": {			
+		"id": "CS01-01-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Sacred Lancer",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Sacred Lancer",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 2,		
+		"HP": 1,		
+	},			
+	"CS01-01-07": {			
+		"id": "CS01-01-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Angelic Banner Bearer",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Angelic Banner Bearer",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 1,		
+		"HP": 2,		
+	},			
+	"CS01-01-08": {			
+		"id": "CS01-01-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Luminae Archangel",
+				"type": "Creature",
+				"cost": 9,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Luminae Archangel",		
+		"type": "Creature",		
+		"cost": 9,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 5,		
+		"HP": 5,		
+	},			
+	"CS01-01-09": {			
+		"id": "CS01-01-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Lightveil Angel",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Lightveil Angel",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 1,		
+		"HP": 1,		
+	},			
+	"CS01-01-10": {			
+		"id": "CS01-01-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Luminae Crusade",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Luminae Crusade",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-11": {			
+		"id": "CS01-01-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Radiant Arbiter",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Radiant Arbiter",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 3,		
+		"HP": 4,		
+	},			
+	"CS01-01-12": {			
+		"id": "CS01-01-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Glorywing Herald",
+				"type": "Creature",
+				"cost": 8,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Glorywing Herald",		
+		"type": "Creature",		
+		"cost": 8,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 4,		
+		"HP": 3,		
+	},			
+	"CS01-01-13": {			
+		"id": "CS01-01-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Lightbringer of the Sanctuary",
+				"type": "Creature",
+				"cost": 6,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Lightbringer of the Sanctuary",		
+		"type": "Creature",		
+		"cost": 6,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 2,		
+		"HP": 5,		
+	},			
+	"CS01-01-14": {			
+		"id": "CS01-01-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Arbiter of Judgement",
+				"type": "Creature",
+				"cost": 7,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Arbiter of Judgement",		
+		"type": "Creature",		
+		"cost": 7,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 5,		
+		"HP": 6,		
+	},			
+	"CS01-01-15": {			
+		"id": "CS01-01-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Final Judgement",
+				"type": "Spell",
+				"cost": 10,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Final Judgement",		
+		"type": "Spell",		
+		"cost": 10,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-16": {			
+		"id": "CS01-01-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Angel of Blessings",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Angel of Blessings",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 2,		
+		"HP": 3,		
+	},			
+	"CS01-01-17": {			
+		"id": "CS01-01-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Dawnshaper Luminary",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Dawnshaper Luminary",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 3,		
+		"HP": 4,		
+	},			
+	"CS01-01-18": {			
+		"id": "CS01-01-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Lightbinding Chains",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Lightbinding Chains",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-19": {			
+		"id": "CS01-01-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Keeper of Celestial Light",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Keeper of Celestial Light",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 4,		
+		"HP": 5,		
+	},			
+	"CS01-01-20": {			
+		"id": "CS01-01-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Argent Sage",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Argent Sage",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 2,		
+		"HP": 4,		
+	},			
+	"CS01-01-21": {			
+		"id": "CS01-01-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Radiant Echo",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Radiant Echo",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-22": {			
+		"id": "CS01-01-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-23": {			
+		"id": "CS01-01-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-24": {			
+		"id": "CS01-01-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-25": {			
+		"id": "CS01-01-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-26": {			
+		"id": "CS01-01-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-27": {			
+		"id": "CS01-01-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-28": {			
+		"id": "CS01-01-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-29": {			
+		"id": "CS01-01-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-01-30": {			
+		"id": "CS01-01-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "High Luminary Seraphis",
+				"type": "Creature",
+				"cost": 10,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "High Luminary Seraphis",		
+		"type": "Creature",		
+		"cost": 10,		
+		"Faction": "Luminae Order",		
+		"Sub-type": "Angel",		
+		"ATK": 6,		
+		"HP": 6,		
+	},			
+	"CS01-02-01": {			
+		"id": "CS01-02-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Dragon's Scale",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Dragon's Scale",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-02": {			
+		"id": "CS01-02-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Emberfang Talisman",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Emberfang Talisman",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-03": {			
+		"id": "CS01-02-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Furious Dragonblader",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Furious Dragonblader",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 4,		
+		"HP": 4,		
+	},			
+	"CS01-02-04": {			
+		"id": "CS01-02-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Blazing Burst",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Blazing Burst",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-05": {			
+		"id": "CS01-02-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Everburning Dragon",
+				"type": "Creature",
+				"cost": 6,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Everburning Dragon",		
+		"type": "Creature",		
+		"cost": 6,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 5,		
+		"HP": 5,		
+	},			
+	"CS01-02-06": {			
+		"id": "CS01-02-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Drakarian Brawler",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Drakarian Brawler",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 1,		
+		"HP": 2,		
+	},			
+	"CS01-02-07": {			
+		"id": "CS01-02-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Swift Salamander",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Swift Salamander",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 1,		
+		"HP": 1,		
+	},			
+	"CS01-02-08": {			
+		"id": "CS01-02-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Drakarian Student",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Drakarian Student",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 2,		
+		"HP": 3,		
+	},			
+	"CS01-02-09": {			
+		"id": "CS01-02-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Smoldering Embermaw",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Smoldering Embermaw",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 2,		
+		"HP": 2,		
+	},			
+	"CS01-02-10": {			
+		"id": "CS01-02-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Ashwing Drake",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Ashwing Drake",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 5,		
+		"HP": 2,		
+	},			
+	"CS01-02-11": {			
+		"id": "CS01-02-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Flamespit Whelp",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Flamespit Whelp",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 3,		
+		"HP": 2,		
+	},			
+	"CS01-02-12": {			
+		"id": "CS01-02-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Emberfang Prowler",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Emberfang Prowler",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 2,		
+		"HP": 2,		
+	},			
+	"CS01-02-13": {			
+		"id": "CS01-02-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Drakarian Emberling",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Drakarian Emberling",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 2,		
+		"HP": 1,		
+	},			
+	"CS01-02-14": {			
+		"id": "CS01-02-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Might of the Clans",
+				"type": "Spell",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Might of the Clans",		
+		"type": "Spell",		
+		"cost": 5,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-15": {			
+		"id": "CS01-02-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Warcry",
+				"type": "Spell",
+				"cost": 1,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Warcry",		
+		"type": "Spell",		
+		"cost": 1,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-16": {			
+		"id": "CS01-02-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Everburning Wrath",
+				"type": "Spell",
+				"cost": 6,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Everburning Wrath",		
+		"type": "Spell",		
+		"cost": 6,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-17": {			
+		"id": "CS01-02-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Hermit Dragon",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Hermit Dragon",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 0,		
+		"HP": 10,		
+	},			
+	"CS01-02-18": {			
+		"id": "CS01-02-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Elder Dragon of Destruction, Ashflame",
+				"type": "Creature",
+				"cost": 16,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Elder Dragon of Destruction, Ashflame",		
+		"type": "Creature",		
+		"cost": 16,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 10,		
+		"HP": 10,		
+	},			
+	"CS01-02-19": {			
+		"id": "CS01-02-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-20": {			
+		"id": "CS01-02-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-21": {			
+		"id": "CS01-02-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-22": {			
+		"id": "CS01-02-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-23": {			
+		"id": "CS01-02-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-24": {			
+		"id": "CS01-02-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-25": {			
+		"id": "CS01-02-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-26": {			
+		"id": "CS01-02-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-27": {			
+		"id": "CS01-02-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-28": {			
+		"id": "CS01-02-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-29": {			
+		"id": "CS01-02-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-02-30": {			
+		"id": "CS01-02-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Ignis the Great Unifier",
+				"type": "Creature",
+				"cost": 7,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Ignis the Great Unifier",		
+		"type": "Creature",		
+		"cost": 7,		
+		"Faction": "Drakarian Clans",		
+		"Sub-type": "Dragon",		
+		"ATK": 6,		
+		"HP": 4,		
+	},			
+	"CS01-03-01": {			
+		"id": "CS01-03-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Abyssal Crystal",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Abyssal Crystal",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-02": {			
+		"id": "CS01-03-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Tidal Fragment",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Tidal Fragment",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-03": {			
+		"id": "CS01-03-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Abyssal Dive",
+				"type": "Spell",
+				"cost": 1,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Abyssal Dive",		
+		"type": "Spell",		
+		"cost": 1,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-04": {			
+		"id": "CS01-03-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Edicts of the Court",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Edicts of the Court",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-05": {			
+		"id": "CS01-03-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Abyssal Endgame",
+				"type": "Spell",
+				"cost": 25,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Abyssal Endgame",		
+		"type": "Spell",		
+		"cost": 25,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-06": {			
+		"id": "CS01-03-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Royal Guard",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Royal Guard",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 0,		
+		"HP": 1,		
+	},			
+	"CS01-03-07": {			
+		"id": "CS01-03-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Court Scribe",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Court Scribe",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 2,		
+		"HP": 3,		
+	},			
+	"CS01-03-08": {			
+		"id": "CS01-03-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Court Assembly",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Court Assembly",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-09": {			
+		"id": "CS01-03-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Tidal Wave",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Tidal Wave",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-10": {			
+		"id": "CS01-03-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Whirlpool of Fate",
+				"type": "Spell",
+				"cost": 8,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Whirlpool of Fate",		
+		"type": "Spell",		
+		"cost": 8,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-11": {			
+		"id": "CS01-03-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Crushing Undertow",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Crushing Undertow",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-12": {			
+		"id": "CS01-03-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Currents of Resurgence",
+				"type": "Spell",
+				"cost": 6,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Currents of Resurgence",		
+		"type": "Spell",		
+		"cost": 6,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-13": {			
+		"id": "CS01-03-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Abyssal Watcher",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Abyssal Watcher",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 3,		
+		"HP": 5,		
+	},			
+	"CS01-03-14": {			
+		"id": "CS01-03-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Waveblader",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Waveblader",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 3,		
+		"HP": 3,		
+	},			
+	"CS01-03-15": {			
+		"id": "CS01-03-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Leviathan",
+				"type": "Creature",
+				"cost": 7,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Leviathan",		
+		"type": "Creature",		
+		"cost": 7,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 5,		
+		"HP": 5,		
+	},			
+	"CS01-03-16": {			
+		"id": "CS01-03-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Maw from Below",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Maw from Below",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-17": {			
+		"id": "CS01-03-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Call to Order",
+				"type": "Spell",
+				"cost": 9,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Call to Order",		
+		"type": "Spell",		
+		"cost": 9,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-18": {			
+		"id": "CS01-03-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Paranoid Bureaucrat",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Paranoid Bureaucrat",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 0,		
+		"HP": 10,		
+	},			
+	"CS01-03-19": {			
+		"id": "CS01-03-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-20": {			
+		"id": "CS01-03-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-21": {			
+		"id": "CS01-03-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-22": {			
+		"id": "CS01-03-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-23": {			
+		"id": "CS01-03-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-24": {			
+		"id": "CS01-03-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-25": {			
+		"id": "CS01-03-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-26": {			
+		"id": "CS01-03-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-27": {			
+		"id": "CS01-03-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-28": {			
+		"id": "CS01-03-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-29": {			
+		"id": "CS01-03-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-03-30": {			
+		"id": "CS01-03-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Queen Nereida of the Abyssal Depths",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Queen Nereida of the Abyssal Depths",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Abyssal Court",		
+		"Sub-type": "Merman",		
+		"ATK": 2,		
+		"HP": 3,		
+	},			
+	"CS01-04-01": {			
+		"id": "CS01-04-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Essence of Life",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Essence of Life",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-02": {			
+		"id": "CS01-04-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Blooming Shard",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Blooming Shard",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-03": {			
+		"id": "CS01-04-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Animate Life",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Animate Life",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-04": {			
+		"id": "CS01-04-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Verdant Bloom",
+				"type": "Spell",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Verdant Bloom",		
+		"type": "Spell",		
+		"cost": 3,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-05": {			
+		"id": "CS01-04-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Giant Treant",
+				"type": "Creature",
+				"cost": 9,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Giant Treant",		
+		"type": "Creature",		
+		"cost": 9,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 7,		
+		"HP": 7,		
+	},			
+	"CS01-04-06": {			
+		"id": "CS01-04-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Recycle",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Recycle",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-07": {			
+		"id": "CS01-04-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Elvish Ranger",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Elvish Ranger",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 2,		
+		"HP": 2,		
+	},			
+	"CS01-04-08": {			
+		"id": "CS01-04-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Elvish Gatherer",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Elvish Gatherer",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 1,		
+		"HP": 2,		
+	},			
+	"CS01-04-09": {			
+		"id": "CS01-04-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Prayer to Nature",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Prayer to Nature",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-10": {			
+		"id": "CS01-04-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Forestblade Marauder",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Forestblade Marauder",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 3,		
+		"HP": 4,		
+	},			
+	"CS01-04-11": {			
+		"id": "CS01-04-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Sylvan Battlecaller",
+				"type": "Creature",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Sylvan Battlecaller",		
+		"type": "Creature",		
+		"cost": 4,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 3,		
+		"HP": 3,		
+	},			
+	"CS01-04-12": {			
+		"id": "CS01-04-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Verdant Surge",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Verdant Surge",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-13": {			
+		"id": "CS01-04-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Elvish Monarch",
+				"type": "Creature",
+				"cost": 9,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Elvish Monarch",		
+		"type": "Creature",		
+		"cost": 9,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 8,		
+		"HP": 8,		
+	},			
+	"CS01-04-14": {			
+		"id": "CS01-04-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Canopy Juggernaut",
+				"type": "Creature",
+				"cost": 12,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Canopy Juggernaut",		
+		"type": "Creature",		
+		"cost": 12,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "Elf",		
+		"ATK": 10,		
+		"HP": 10,		
+	},			
+	"CS01-04-15": {			
+		"id": "CS01-04-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Worldtree Awakening",
+				"type": "Spell",
+				"cost": 16,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Worldtree Awakening",		
+		"type": "Spell",		
+		"cost": 16,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-16": {			
+		"id": "CS01-04-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Renewing Winds",
+				"type": "Spell",
+				"cost": 8,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Renewing Winds",		
+		"type": "Spell",		
+		"cost": 8,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-17": {			
+		"id": "CS01-04-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Immovable Force",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Immovable Force",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 5,		
+		"HP": 5,		
+	},			
+	"CS01-04-18": {			
+		"id": "CS01-04-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Invading Rodent",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Invading Rodent",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 1,		
+		"HP": 1,		
+	},			
+	"CS01-04-19": {			
+		"id": "CS01-04-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-20": {			
+		"id": "CS01-04-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-21": {			
+		"id": "CS01-04-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-22": {			
+		"id": "CS01-04-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-23": {			
+		"id": "CS01-04-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-24": {			
+		"id": "CS01-04-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-25": {			
+		"id": "CS01-04-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-26": {			
+		"id": "CS01-04-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-27": {			
+		"id": "CS01-04-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-28": {			
+		"id": "CS01-04-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-29": {			
+		"id": "CS01-04-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-04-30": {			
+		"id": "CS01-04-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Elder Treant Arborus",
+				"type": "Creature",
+				"cost": 10,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Elder Treant Arborus",		
+		"type": "Creature",		
+		"cost": 10,		
+		"Faction": "Verdant Coalition",		
+		"Sub-type": "",		
+		"ATK": 10,		
+		"HP": 10,		
+	},			
+	"CS01-05-01": {			
+		"id": "CS01-05-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Shard of Ruin",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Shard of Ruin",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-02": {			
+		"id": "CS01-05-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Forsaken Relic",
+				"type": "Mana",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Forsaken Relic",		
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-03": {			
+		"id": "CS01-05-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Returnal",
+				"type": "Spell",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Returnal",		
+		"type": "Spell",		
+		"cost": 2,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-04": {			
+		"id": "CS01-05-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Darkness Dweller",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Darkness Dweller",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 1,		
+		"HP": 2,		
+	},			
+	"CS01-05-05": {			
+		"id": "CS01-05-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Dread Bone Lord",
+				"type": "Creature",
+				"cost": 7,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Dread Bone Lord",		
+		"type": "Creature",		
+		"cost": 7,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 3,		
+		"HP": 5,		
+	},			
+	"CS01-05-06": {			
+		"id": "CS01-05-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Ghastly Remnant",
+				"type": "Creature",
+				"cost": 2,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Ghastly Remnant",		
+		"type": "Creature",		
+		"cost": 2,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 1,		
+		"HP": 1,		
+	},			
+	"CS01-05-07": {			
+		"id": "CS01-05-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Fractured Ritual",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Fractured Ritual",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-08": {			
+		"id": "CS01-05-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Broken Mind",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Broken Mind",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 2,		
+		"HP": 1,		
+	},			
+	"CS01-05-09": {			
+		"id": "CS01-05-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Shattered Amalgam",
+				"type": "Creature",
+				"cost": 10,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Shattered Amalgam",		
+		"type": "Creature",		
+		"cost": 10,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Demon",		
+		"ATK": 1,		
+		"HP": 1,		
+	},			
+	"CS01-05-10": {			
+		"id": "CS01-05-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Grave Wisp",
+				"type": "Creature",
+				"cost": 3,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Grave Wisp",		
+		"type": "Creature",		
+		"cost": 3,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 2,		
+		"HP": 2,		
+	},			
+	"CS01-05-11": {			
+		"id": "CS01-05-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Devastation",
+				"type": "Spell",
+				"cost": 8,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Devastation",		
+		"type": "Spell",		
+		"cost": 8,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-12": {			
+		"id": "CS01-05-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Spectral Lich",
+				"type": "Creature",
+				"cost": 8,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Spectral Lich",		
+		"type": "Creature",		
+		"cost": 8,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 5,		
+		"HP": 6,		
+	},			
+	"CS01-05-13": {			
+		"id": "CS01-05-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Echo of the Damned",
+				"type": "Creature",
+				"cost": 9,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Echo of the Damned",		
+		"type": "Creature",		
+		"cost": 9,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 4,		
+		"HP": 4,		
+	},			
+	"CS01-05-14": {			
+		"id": "CS01-05-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Soulbinder Wraith",
+				"type": "Creature",
+				"cost": 6,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Soulbinder Wraith",		
+		"type": "Creature",		
+		"cost": 6,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 4,		
+		"HP": 5,		
+	},			
+	"CS01-05-15": {			
+		"id": "CS01-05-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Shattered Storm",
+				"type": "Spell",
+				"cost": 4,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Shattered Storm",		
+		"type": "Spell",		
+		"cost": 4,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-16": {			
+		"id": "CS01-05-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Shatterbound Spirit",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Shatterbound Spirit",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "Spirit",		
+		"ATK": 3,		
+		"HP": 5,		
+	},			
+	"CS01-05-17": {			
+		"id": "CS01-05-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-18": {			
+		"id": "CS01-05-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-19": {			
+		"id": "CS01-05-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-20": {			
+		"id": "CS01-05-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-21": {			
+		"id": "CS01-05-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-22": {			
+		"id": "CS01-05-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-23": {			
+		"id": "CS01-05-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-24": {			
+		"id": "CS01-05-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-25": {			
+		"id": "CS01-05-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-26": {			
+		"id": "CS01-05-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-27": {			
+		"id": "CS01-05-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-28": {			
+		"id": "CS01-05-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-29": {			
+		"id": "CS01-05-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "",
+				"type": "",
+				"cost": 0,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "",		
+		"type": "",		
+		"cost": 0,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0,		
+	},			
+	"CS01-05-30": {			
+		"id": "CS01-05-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": "Rogue Necromancer Malakar",
+				"type": "Creature",
+				"cost": 5,
+				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"name": "Rogue Necromancer Malakar",		
+		"type": "Creature",		
+		"cost": 5,		
+		"Faction": "Shattered Remnants",		
+		"Sub-type": "",		
+		"ATK": 4,		
+		"HP": 4,		
+	}			
+}
