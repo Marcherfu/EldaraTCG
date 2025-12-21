@@ -3,14 +3,13 @@
   "menuBackgroundImage": "https://marcherfu.github.io/EldaraTCG/IMG/EldaraTCG.png",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://marcherfu.github.io/EldaraTCG/JSON/EldaraTCGDecks.json"
+    "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://marcherfu.github.io/EldaraTCG/JSON/CardList.json",
-    "cardBack": "https://marcherfu.github.io/EldaraTCG/IMG/cardback.png",
-    "cardBackColor": "#003D3D"
+    "cardBackColor": "#000000"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -244,6 +243,7 @@
             "isHidden": "yes",
             "height": "18",
             "alignment": "DECK",
+			"drawPerTurn": 1,
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -254,7 +254,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "cardBackColor": "#003D3D"
+            "cardBackColor": "#e0e0e0"
           }
         }
       }
