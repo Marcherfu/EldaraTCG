@@ -48,7 +48,7 @@
       "sections": {
         "customSections": [
           "Board",
-          "Mana",
+          "Mana Zone",
           "Mana Deck"
         ],
         "layout": {
@@ -81,7 +81,7 @@
               },
               "content": [
                 {
-                  "section": "Mana",
+                  "section": "Mana Zone",
                   "style": false
                 }
               ],
@@ -206,8 +206,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Mana": {
-            "title": "Mana",
+          "Mana Zone": {
+            "title": "Mana Zone",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
