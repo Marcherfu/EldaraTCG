@@ -49,8 +49,8 @@
       "sections": {
         "customSections": [
           "Board",
-          "Mana_Zone",
-          "Mana"
+          "Mana",
+          "Mana_Deck"
         ],
         "layout": {
           "direction": "column",
@@ -63,7 +63,7 @@
               },
               "content": [
                 {
-                  "section": "Mana",
+                  "section": "Mana_Deck",
                   "style": {
                     "width": "13.9vh"
                   }
@@ -82,7 +82,7 @@
               },
               "content": [
                 {
-                  "section": "Mana_Zone",
+                  "section": "Mana",
                   "style": false
                 }
               ],
@@ -96,12 +96,11 @@
         "autoPlayFromHand": {
           "Creature": "Stack",
           "Spell": "Stack",
-          "Mana": "Mana"
+          "Mana": "Mana_Deck"
         },
         "autoPlayFromStack": {
           "Creature": "Board",
-          "Spell": "Discard",
-          "Mana": "Mana"
+          "Spell": "Discard"
         },
         "sectionsDict": {
           "Hand": {
@@ -207,8 +206,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Mana_Zone": {
-            "title": "Mana_Zone",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
@@ -239,8 +238,8 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
-          "Mana": {
-            "title": "Mana",
+          "Mana_Deck": {
+            "title": "Mana_Deck",
             "isHidden": "yes",
             "height": "18",
             "alignment": "DECK",
