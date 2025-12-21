@@ -1,0 +1,435 @@
+[
+	{
+	  "title": "Beginner Deck - Mono-LUM Angels",
+	  "id": "11a3a731-4b89-42b6-a897-a7130ac9def4",
+	  "game": "Eldara TCG",
+	  "format": [
+		"Classic"
+	  ],
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T03:44:07.120Z",
+	  "lastModifiedAt": "2025-12-21T05:24:15.064Z",
+	  "deckList": {
+		"categoriesOrder": [
+		  "Creature",
+		  "Spell",
+		  "Mana"
+		],
+		"Sideboard": [],
+		"Creature": [
+		  {
+			"count": 4,
+			"id": "CS01-01-09"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-05"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-07"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-20"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-01-17"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-01-19"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-01-11"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-01-13"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-01-14"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-01-12"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-01-08"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-01-10"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-03"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-04"
+		  }
+		],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-01-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-02"
+		  }
+		]
+	  }
+	},
+	{
+	  "title": "Beginner Deck - Mono-VER Ramp",
+	  "id": "a95e5dbd-5799-465f-8f10-350213a74fbc",
+	  "game": "Eldara TCG",
+	  "format": [
+		"Classic"
+	  ],
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:25:10.541Z",
+	  "lastModifiedAt": "2025-12-21T05:33:46.076Z",
+	  "deckList": {
+		"categoriesOrder": [
+		  "Creature",
+		  "Spell",
+		  "Mana"
+		],
+		"Sideboard": [],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-04-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-02"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-04-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-09"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-04"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-12"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-04-15"
+		  }
+		],
+		"Creature": [
+		  {
+			"count": 4,
+			"id": "CS01-04-08"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-07"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-11"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-10"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-13"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-05"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-30"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-14"
+		  }
+		]
+	  }
+	},
+	{
+	  "title": "Beginner Deck - Mono-DRA Dragons",
+	  "id": "31353e64-ebfd-4e87-a63c-d748f02485d5",
+	  "game": "Eldara TCG",
+	  "format": [
+		"Classic"
+	  ],
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:34:27.524Z",
+	  "lastModifiedAt": "2025-12-21T05:38:37.032Z",
+	  "deckList": {
+		"categoriesOrder": [
+		  "Creature",
+		  "Spell",
+		  "Mana"
+		],
+		"Sideboard": [],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-02-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-02"
+		  }
+		],
+		"Creature": [
+		  {
+			"count": 4,
+			"id": "CS01-02-13"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-07"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-12"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-03"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-11"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-08"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-09"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-10"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-02-05"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-02-30"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-02-15"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-02-14"
+		  }
+		]
+	  }
+	},
+	{
+	  "title": "Beginner Deck - Mono-ABY Spells",
+	  "id": "8960e218-2392-4f5e-9db7-2e0d4d830d49",
+	  "game": "Eldara TCG",
+	  "format": [
+		"Classic"
+	  ],
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:39:38.948Z",
+	  "lastModifiedAt": "2025-12-21T05:44:59.649Z",
+	  "deckList": {
+		"categoriesOrder": [
+		  "Creature",
+		  "Spell",
+		  "Mana"
+		],
+		"Sideboard": [],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-03-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-02"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-03-03"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-08"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-09"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-04"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-16"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-10"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-17"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-03-05"
+		  }
+		],
+		"Creature": [
+		  {
+			"count": 4,
+			"id": "CS01-03-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-30"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-07"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-13"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-03-15"
+		  }
+		]
+	  }
+	},
+	{
+	  "title": "Beginner Deck - Mono-SHA Spirits",
+	  "id": "be9361ba-9473-4e5b-ad6c-809ab7885d32",
+	  "game": "Eldara TCG",
+	  "format": [
+		"Classic"
+	  ],
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:45:36.046Z",
+	  "lastModifiedAt": "2025-12-21T05:48:29.761Z",
+	  "deckList": {
+		"categoriesOrder": [
+		  "Creature",
+		  "Spell",
+		  "Mana"
+		],
+		"Sideboard": [],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-05-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-02"
+		  }
+		],
+		"Creature": [
+		  {
+			"count": 4,
+			"id": "CS01-05-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-04"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-08"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-10"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-16"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-30"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-14"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-05"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-12"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-13"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-05-03"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-07"
+		  },
+		  {
+			"count": 2,
+			"id": "CS01-05-11"
+		  }
+		]
+	  }
+	}
+]
