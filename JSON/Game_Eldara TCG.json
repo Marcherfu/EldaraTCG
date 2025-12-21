@@ -91,7 +91,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Mana"
+          "Mana->Mana_Deck"
         ],
         "autoPlayFromHand": {
           "Creature": "Stack",
