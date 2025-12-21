@@ -97,7 +97,7 @@
         "autoPlayFromHand": {
           "Creature": "Stack",
           "Spell": "Stack",
-          "Mana_Deck": "Mana"
+          "Mana": "Mana"
         },
         "autoPlayFromStack": {
           "Creature": "Board",
