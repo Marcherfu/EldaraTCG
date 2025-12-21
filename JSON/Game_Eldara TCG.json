@@ -9,7 +9,8 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://marcherfu.github.io/EldaraTCG/JSON/CardList.json",
-    "cardBackColor": "#000000"
+    "cardBack": "https://marcherfu.github.io/EldaraTCG/IMG/cardback.png",
+    "cardBackColor": "#003D3D"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -253,7 +254,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
-            "cardBackColor": "#e0e0e0"
+            "cardBackColor": "#003D3D"
           }
         }
       }
