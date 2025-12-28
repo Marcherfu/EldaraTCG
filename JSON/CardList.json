@@ -3404,25 +3404,25 @@
 		"isToken": false,		
 		"face": {		
 			"front": {	
-				"name": "",
-				"type": "",
-				"cost": 0,
+				"name": "Mind Devouring Spirit",
+				"type": "Creature",
+				"cost": 3,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-17.png",
 				"isHorizontal": false
 			}	
 		},		
-		"name": "",		
-		"type": "",		
-		"cost": 0,		
+		"name": "Mind Devouring Spirit",		
+		"type": "Creature",		
+		"cost": 3,		
 		"Faction": [		
 			"Shattered Remnants"	
 		],		
 		"Set": [		
 			"CS01"	
 		],		
-		"Sub-type": "",		
+		"Sub-type": "Spirit",		
 		"ATK": 0,		
-		"HP": 0		
+		"HP": 2		
 	},			
 	"CS01-05-18": {			
 		"id": "CS01-05-18",		
