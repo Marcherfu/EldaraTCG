@@ -2,20 +2,19 @@
 	{
 	  "title": "Beginner Deck - Mono-LUM Angels",
 	  "id": "11a3a731-4b89-42b6-a897-a7130ac9def4",
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T03:44:07.120Z",
+	  "lastModifiedAt": "2026-07-19T16:48:36.889Z",
 	  "game": "Eldara TCG",
 	  "format": [
 		"Classic"
 	  ],
-	  "cardCount": 66,
-	  "createdAt": "2025-12-21T03:44:07.120Z",
-	  "lastModifiedAt": "2025-12-21T05:24:15.064Z",
 	  "deckList": {
 		"categoriesOrder": [
 		  "Creature",
 		  "Spell",
 		  "Mana"
 		],
-		"Sideboard": [],
 		"Creature": [
 		  {
 			"count": 4,
@@ -32,10 +31,6 @@
 		  {
 			"count": 4,
 			"id": "CS01-01-07"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-01-20"
 		  },
 		  {
 			"count": 3,
@@ -78,6 +73,10 @@
 		  {
 			"count": 4,
 			"id": "CS01-01-04"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-01-22"
 		  }
 		],
 		"Mana": [
@@ -95,51 +94,18 @@
 	{
 	  "title": "Beginner Deck - Mono-VER Ramp",
 	  "id": "a95e5dbd-5799-465f-8f10-350213a74fbc",
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:25:10.541Z",
+	  "lastModifiedAt": "2026-07-19T16:53:41.010Z",
 	  "game": "Eldara TCG",
 	  "format": [
 		"Classic"
 	  ],
-	  "cardCount": 66,
-	  "createdAt": "2025-12-21T05:25:10.541Z",
-	  "lastModifiedAt": "2025-12-21T05:33:46.076Z",
 	  "deckList": {
 		"categoriesOrder": [
 		  "Creature",
 		  "Spell",
 		  "Mana"
-		],
-		"Sideboard": [],
-		"Mana": [
-		  {
-			"count": 12,
-			"id": "CS01-04-01"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-04-02"
-		  }
-		],
-		"Spell": [
-		  {
-			"count": 4,
-			"id": "CS01-04-06"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-04-09"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-04-04"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-04-12"
-		  },
-		  {
-			"count": 2,
-			"id": "CS01-04-15"
-		  }
 		],
 		"Creature": [
 		  {
@@ -160,10 +126,6 @@
 		  },
 		  {
 			"count": 4,
-			"id": "CS01-04-13"
-		  },
-		  {
-			"count": 4,
 			"id": "CS01-04-05"
 		  },
 		  {
@@ -172,7 +134,43 @@
 		  },
 		  {
 			"count": 4,
-			"id": "CS01-04-14"
+			"id": "CS01-04-21"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-04-22"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-20"
+		  }
+		],
+		"Spell": [
+		  {
+			"count": 4,
+			"id": "CS01-04-06"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-09"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-04"
+		  },
+		  {
+			"count": 3,
+			"id": "CS01-04-12"
+		  }
+		],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-04-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-04-02"
 		  }
 		]
 	  }
@@ -350,29 +348,18 @@
 	{
 	  "title": "Beginner Deck - Mono-SHA Spirits",
 	  "id": "be9361ba-9473-4e5b-ad6c-809ab7885d32",
+	  "cardCount": 66,
+	  "createdAt": "2025-12-21T05:45:36.046Z",
+	  "lastModifiedAt": "2026-07-19T16:46:28.939Z",
 	  "game": "Eldara TCG",
 	  "format": [
 		"Classic"
 	  ],
-	  "cardCount": 66,
-	  "createdAt": "2025-12-21T05:45:36.046Z",
-	  "lastModifiedAt": "2025-12-21T05:48:29.761Z",
 	  "deckList": {
 		"categoriesOrder": [
 		  "Creature",
 		  "Spell",
 		  "Mana"
-		],
-		"Sideboard": [],
-		"Mana": [
-		  {
-			"count": 12,
-			"id": "CS01-05-01"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-05-02"
-		  }
 		],
 		"Creature": [
 		  {
@@ -410,10 +397,6 @@
 		  {
 			"count": 4,
 			"id": "CS01-05-12"
-		  },
-		  {
-			"count": 4,
-			"id": "CS01-05-13"
 		  }
 		],
 		"Spell": [
@@ -428,6 +411,20 @@
 		  {
 			"count": 2,
 			"id": "CS01-05-11"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-18"
+		  }
+		],
+		"Mana": [
+		  {
+			"count": 12,
+			"id": "CS01-05-01"
+		  },
+		  {
+			"count": 4,
+			"id": "CS01-05-02"
 		  }
 		]
 	  }
