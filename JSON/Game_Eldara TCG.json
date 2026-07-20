@@ -49,7 +49,7 @@
 		},
         "drawNewHand": false,
         "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
