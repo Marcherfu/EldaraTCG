@@ -19,6 +19,9 @@
       "faction",
 	  "Set"
     ],
+    "costCurveIgnoredTypes": [
+      "Mana"
+    ],
     "formats": [
       {
         "title": "Classic",
