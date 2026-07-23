@@ -29,27 +29,18 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "triggeredByButton": true,
         "startingHandSize": 5,
-		"mulliganCount": {
-			"min":0,
-			"max":1
-		},
 		"mulliganCycle": {
-			"info": "You choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"info": "You choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then draw until you have five cards in hand.",
 			"steps": [
 				"toBottom",
 				"draw"
 			],
 			"selectionRange": {
 				"min": 0,
-				"max": 5
 			},
 			"keepCardsOrder": true
 		},
-        "drawNewHand": true,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
