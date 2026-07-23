@@ -49,10 +49,7 @@
 				"max": 5
 			},
 			"keepCardsOrder": true
-		},
-        "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": true
+		}
       },
       "newTurn": {
         "drawOnStart": false,
