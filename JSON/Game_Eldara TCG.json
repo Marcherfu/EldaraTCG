@@ -16,7 +16,7 @@
     "mainFilters": [
       "type",
       "cost",
-      "faction",
+      "Faction",
 	  "Set"
     ],
     "costCurveIgnoredTypes": [
