@@ -14,9 +14,10 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Type",
-      "Cost",
-      "Factions"
+	  "Set",
+      "type",
+      "cost",
+      "factions"
     ],
     "formats": [
       {
@@ -28,7 +29,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "triggeredByButton": false,
+        "triggeredByButton": true,
         "startingHandSize": 5,
 		"mulliganCount": {
 			"min":0,
@@ -46,7 +47,7 @@
 			},
 			"keepCardsOrder": true
 		},
-        "drawNewHand": false,
+        "drawNewHand": true,
         "putSelectionAtBottom": true,
         "drawNewSelectedCards": true
       },
