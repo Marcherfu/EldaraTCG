@@ -15,9 +15,8 @@
   "deckBuilding": {
     "mainFilters": [
       "Type",
-      "Factions",
       "Cost",
-      "Set"
+      "Factions"
     ],
     "formats": [
       {
