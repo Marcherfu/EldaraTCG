@@ -2106,14 +2106,14 @@
 			"front": {	
 				"name": "Tribute to the Court",
 				"type": "Spell",
-				"cost": 0,
+				"cost": 1,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-25.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Tribute to the Court",		
 		"type": "Spell",		
-		"cost": 0,		
+		"cost": 1,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -2356,14 +2356,14 @@
 			"front": {	
 				"name": "Giant Treant",
 				"type": "Creature",
-				"cost": 9,
+				"cost": 8,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-05.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Giant Treant",		
 		"type": "Creature",		
-		"cost": 9,		
+		"cost": 8,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -3347,7 +3347,7 @@
 		],		
 		"Sub-type": "Spirit",		
 		"ATK": 4,		
-		"HP": 5		
+		"HP": 3		
 	},			
 	"CS01-05-15": {			
 		"id": "CS01-05-15",		
