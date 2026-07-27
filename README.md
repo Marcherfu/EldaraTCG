@@ -29,6 +29,6 @@ And you in all of that ? Well, you're a Contractor. You're doing allegiance cont
 Who you'll stand for is a decision only you can take. Good luck Contractor !
 
 
-## Game concept
+## Lore concept
 
 The lore of the game is planned to evolve accross the expansions, with right now Core Set 1 being the very start of the story. We are currently some time after the Shattering, when things have settled on a daily war between the 5 Factions. What would happen during the expansion could very much shape the story going forward.
