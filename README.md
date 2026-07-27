@@ -27,3 +27,8 @@ And lastly, those who were the most affected by the Shattering. Those who lost e
 And you in all of that ? Well, you're a Contractor. You're doing allegiance contracts with those factions, trying to work things out and make the whole world a better place like before the Shattering.
 
 Who you'll stand for is a decision only you can take. Good luck Contractor !
+
+
+## Game concept
+
+The lore of the game is planned to evolve accross the expansions, with right now Core Set 1 being the very start of the story. We are currently some time after the Shattering, when things have settled on a daily war between the 5 Factions. What would happen during the expansion could very much shape the story going forward.
