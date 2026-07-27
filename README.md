@@ -8,6 +8,7 @@ Play it here : https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZtYXJjaGVyZnUuZ2l0aHV
 
 Card Search, Tools & Infos here : https://docs.google.com/spreadsheets/d/1r0vA2ozxB5Y-h5PlNbSOCQtpmLE0CNsE-3NG9DjOIY8/edit?usp=sharing (create a copy and allow the data from elsewhere, the data is from this Github to load card images)
 
+Wiki : https://github.com/Marcherfu/EldaraTCG/wiki
 
 ## Lore
 
