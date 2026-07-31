@@ -285,7 +285,7 @@
     },
     "2v2": {
       "teams": {
-		"sharedPlayerCounter": false
+		"sharedPlayerCounter": false,
 		"placement": "alternating"
       },
       "newTurn": {
