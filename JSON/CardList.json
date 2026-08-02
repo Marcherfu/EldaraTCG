@@ -506,14 +506,14 @@
 			"front": {	
 				"name": "Radiant Echo",
 				"type": "Spell",
-				"cost": 3,
+				"cost": 2,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-21.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Radiant Echo",		
 		"type": "Spell",		
-		"cost": 3,		
+		"cost": 2,		
 		"Faction": [		
 			"Luminae Order"	
 		],		
@@ -2021,8 +2021,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "Merman",		
-		"ATK": 5,		
-		"HP": 3		
+		"ATK": 4,		
+		"HP": 4		
 	},			
 	"CS01-03-22": {			
 		"id": "CS01-03-22",		
@@ -3749,4 +3749,4 @@
 		"ATK": 4,		
 		"HP": 4		
 	}			
-}
+}				
