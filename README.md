@@ -4,11 +4,11 @@ TCG Arena plugin for my original TCG : Eldara TCG.
 
 Rules on this Github's wiki.
 
-Play it here : https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZtYXJjaGVyZnUuZ2l0aHViLmlvJTJGRWxkYXJhVENHJTJGSlNPTiUyRkdhbWVfRWxkYXJhJTI1MjBUQ0cuanNvbg==
+Play it on TCG Arena : [Click here](https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZtYXJjaGVyZnUuZ2l0aHViLmlvJTJGRWxkYXJhVENHJTJGSlNPTiUyRkdhbWVfRWxkYXJhJTI1MjBUQ0cuanNvbg==) 
 
-Card Search, Tools & Infos here : https://docs.google.com/spreadsheets/d/1r0vA2ozxB5Y-h5PlNbSOCQtpmLE0CNsE-3NG9DjOIY8/edit?usp=sharing (create a copy and allow the data from elsewhere, the data is from this Github to load card images)
+Card Search, Tools & Infos : [Click here](https://docs.google.com/spreadsheets/d/1r0vA2ozxB5Y-h5PlNbSOCQtpmLE0CNsE-3NG9DjOIY8/edit?usp=sharing) (create a copy and allow the data from elsewhere, the data is from this Github to load card images)
 
-Wiki : https://github.com/Marcherfu/EldaraTCG/wiki
+Wiki pages : [Click here](https://github.com/Marcherfu/EldaraTCG/wiki)
 
 ## Lore
 
