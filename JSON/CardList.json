@@ -656,14 +656,14 @@
 			"front": {	
 				"name": "Sacred Contract",
 				"type": "Spell",
-				"cost": 5,
+				"cost": 2,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-27.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Sacred Contract",		
 		"type": "Spell",		
-		"cost": 5,		
+		"cost": 2,		
 		"Faction": [		
 			"Luminae Order"	
 		],		
@@ -681,14 +681,14 @@
 			"front": {	
 				"name": "Radiant Missive",
 				"type": "Spell",
-				"cost": 7,
+				"cost": 6,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-28.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Radiant Missive",		
 		"type": "Spell",		
-		"cost": 7,		
+		"cost": 6,		
 		"Faction": [		
 			"Luminae Order"	
 		],		
@@ -2306,14 +2306,14 @@
 			"front": {	
 				"name": "Animate Life",
 				"type": "Spell",
-				"cost": 2,
+				"cost": 6,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-03.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Animate Life",		
 		"type": "Spell",		
-		"cost": 2,		
+		"cost": 6,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -3621,7 +3621,7 @@
 			"CS01"	
 		],		
 		"Sub-type": "Spirit",		
-		"ATK": 4,		
+		"ATK": 3,		
 		"HP": 1		
 	},			
 	"CS01-05-26": {			
@@ -3749,4 +3749,4 @@
 		"ATK": 4,		
 		"HP": 4		
 	}			
-}				
+}
