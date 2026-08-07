@@ -181,14 +181,14 @@
 			"front": {	
 				"name": "Luminae Archangel",
 				"type": "Creature",
-				"cost": 9,
+				"cost": 8,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-08.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Luminae Archangel",		
 		"type": "Creature",		
-		"cost": 9,		
+		"cost": 8,		
 		"Faction": [		
 			"Luminae Order"	
 		],		
@@ -306,14 +306,14 @@
 			"front": {	
 				"name": "Lightbringer of the Sanctuary",
 				"type": "Creature",
-				"cost": 6,
+				"cost": 5,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-13.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Lightbringer of the Sanctuary",		
 		"type": "Creature",		
-		"cost": 6,		
+		"cost": 5,		
 		"Faction": [		
 			"Luminae Order"	
 		],		
@@ -321,7 +321,7 @@
 			"CS01"	
 		],		
 		"Sub-type": "Angel",		
-		"ATK": 2,		
+		"ATK": 3,		
 		"HP": 5		
 	},			
 	"CS01-01-14": {			
@@ -856,14 +856,14 @@
 			"front": {	
 				"name": "Everburning Dragon",
 				"type": "Creature",
-				"cost": 6,
+				"cost": 5,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-05.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Everburning Dragon",		
 		"type": "Creature",		
-		"cost": 6,		
+		"cost": 5,		
 		"Faction": [		
 			"Drakarian Clans"	
 		],		
@@ -872,7 +872,7 @@
 		],		
 		"Sub-type": "Dragon",		
 		"ATK": 5,		
-		"HP": 5		
+		"HP": 4		
 	},			
 	"CS01-02-06": {			
 		"id": "CS01-02-06",		
@@ -1131,14 +1131,14 @@
 			"front": {	
 				"name": "Everburning Wrath",
 				"type": "Spell",
-				"cost": 6,
+				"cost": 5,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-16.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Everburning Wrath",		
 		"type": "Spell",		
-		"cost": 6,		
+		"cost": 5,		
 		"Faction": [		
 			"Drakarian Clans"	
 		],		
@@ -1421,8 +1421,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "Dragon",		
-		"ATK": 2,		
-		"HP": 3		
+		"ATK": 3,		
+		"HP": 2		
 	},			
 	"CS01-02-28": {			
 		"id": "CS01-02-28",		
@@ -1756,14 +1756,14 @@
 			"front": {	
 				"name": "Crushing Undertow",
 				"type": "Spell",
-				"cost": 4,
+				"cost": 3,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-11.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Crushing Undertow",		
 		"type": "Spell",		
-		"cost": 4,		
+		"cost": 3,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -1781,14 +1781,14 @@
 			"front": {	
 				"name": "Currents of Resurgence",
 				"type": "Spell",
-				"cost": 6,
+				"cost": 4,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-12.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Currents of Resurgence",		
 		"type": "Spell",		
-		"cost": 6,		
+		"cost": 4,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -1871,8 +1871,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "",		
-		"ATK": 5,		
-		"HP": 5		
+		"ATK": 6,		
+		"HP": 6		
 	},			
 	"CS01-03-16": {			
 		"id": "CS01-03-16",		
@@ -1956,14 +1956,14 @@
 			"front": {	
 				"name": "Abyssal Fracture",
 				"type": "Spell",
-				"cost": 12,
+				"cost": 8,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-19.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Abyssal Fracture",		
 		"type": "Spell",		
-		"cost": 12,		
+		"cost": 8,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -2081,14 +2081,14 @@
 			"front": {	
 				"name": "Royal Decree",
 				"type": "Spell",
-				"cost": 3,
+				"cost": 1,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-24.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Royal Decree",		
 		"type": "Spell",		
-		"cost": 3,		
+		"cost": 1,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -2156,14 +2156,14 @@
 			"front": {	
 				"name": "Abyssal Collapse",
 				"type": "Spell",
-				"cost": 7,
+				"cost": 5,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-27.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Abyssal Collapse",		
 		"type": "Spell",		
-		"cost": 7,		
+		"cost": 5,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -2706,14 +2706,14 @@
 			"front": {	
 				"name": "Elvish Call",
 				"type": "Spell",
-				"cost": 1,
+				"cost": 2,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-19.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Elvish Call",		
 		"type": "Spell",		
-		"cost": 1,		
+		"cost": 2,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -2856,14 +2856,14 @@
 			"front": {	
 				"name": "Grovefather",
 				"type": "Creature",
-				"cost": 8,
+				"cost": 6,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-25.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Grovefather",		
 		"type": "Creature",		
-		"cost": 8,		
+		"cost": 6,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -2872,7 +2872,7 @@
 		],		
 		"Sub-type": "Treant",		
 		"ATK": 4,		
-		"HP": 9		
+		"HP": 6		
 	},			
 	"CS01-04-26": {			
 		"id": "CS01-04-26",		
@@ -2906,14 +2906,14 @@
 			"front": {	
 				"name": "Ranger of the Grove",
 				"type": "Creature",
-				"cost": 7,
+				"cost": 5,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-27.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Ranger of the Grove",		
 		"type": "Creature",		
-		"cost": 7,		
+		"cost": 5,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -2921,8 +2921,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "Elf",		
-		"ATK": 4,		
-		"HP": 3		
+		"ATK": 5,		
+		"HP": 4		
 	},			
 	"CS01-04-28": {			
 		"id": "CS01-04-28",		
@@ -2931,14 +2931,14 @@
 			"front": {	
 				"name": "Cycle of Growth",
 				"type": "Spell",
-				"cost": 2,
+				"cost": 1,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-28.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Cycle of Growth",		
 		"type": "Spell",		
-		"cost": 2,		
+		"cost": 1,		
 		"Faction": [		
 			"Verdant Coalition"	
 		],		
@@ -3256,14 +3256,14 @@
 			"front": {	
 				"name": "Devastation",
 				"type": "Spell",
-				"cost": 8,
+				"cost": 6,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-11.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Devastation",		
 		"type": "Spell",		
-		"cost": 8,		
+		"cost": 6,		
 		"Faction": [		
 			"Shattered Remnants"	
 		],		
@@ -3306,14 +3306,14 @@
 			"front": {	
 				"name": "Echo of the Damned",
 				"type": "Creature",
-				"cost": 9,
+				"cost": 7,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-13.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Echo of the Damned",		
 		"type": "Creature",		
-		"cost": 9,		
+		"cost": 7,		
 		"Faction": [		
 			"Shattered Remnants"	
 		],		
@@ -3356,14 +3356,14 @@
 			"front": {	
 				"name": "Shattered Storm",
 				"type": "Spell",
-				"cost": 4,
+				"cost": 3,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-15.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Shattered Storm",		
 		"type": "Spell",		
-		"cost": 4,		
+		"cost": 3,		
 		"Faction": [		
 			"Shattered Remnants"	
 		],		
@@ -3749,4 +3749,4 @@
 		"ATK": 4,		
 		"HP": 4		
 	}			
-}
+}				
