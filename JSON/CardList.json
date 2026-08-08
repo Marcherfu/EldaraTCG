@@ -1956,14 +1956,14 @@
 			"front": {	
 				"name": "Abyssal Fracture",
 				"type": "Spell",
-				"cost": 8,
+				"cost": 10,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-19.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Abyssal Fracture",		
 		"type": "Spell",		
-		"cost": 8,		
+		"cost": 10,		
 		"Faction": [		
 			"Abyssal Court"	
 		],		
@@ -2021,8 +2021,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "Merman",		
-		"ATK": 4,		
-		"HP": 4		
+		"ATK": 3,		
+		"HP": 3		
 	},			
 	"CS01-03-22": {			
 		"id": "CS01-03-22",		
@@ -3306,14 +3306,14 @@
 			"front": {	
 				"name": "Echo of the Damned",
 				"type": "Creature",
-				"cost": 7,
+				"cost": 8,
 				"image": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-13.png",
 				"isHorizontal": false
 			}	
 		},		
 		"name": "Echo of the Damned",		
 		"type": "Creature",		
-		"cost": 7,		
+		"cost": 8,		
 		"Faction": [		
 			"Shattered Remnants"	
 		],		
@@ -3321,8 +3321,8 @@
 			"CS01"	
 		],		
 		"Sub-type": "Spirit",		
-		"ATK": 4,		
-		"HP": 4		
+		"ATK": 3,		
+		"HP": 3		
 	},			
 	"CS01-05-14": {			
 		"id": "CS01-05-14",		
