@@ -47,7 +47,7 @@
 			"max":1
 		},
 		"mulliganCycle": {
-			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"info": "You will need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
 			"steps": [
 				"toBottom",
 				"draw"
@@ -300,7 +300,7 @@
 			"max":1
 		},
 		"mulliganCycle": {
-			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"info": "You will need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
 			"steps": [
 				"toBottom",
 				"draw"
@@ -553,7 +553,7 @@
 			"max":1
 		},
 		"mulliganCycle": {
-			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"info": "You will need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
 			"steps": [
 				"toBottom",
 				"draw"
