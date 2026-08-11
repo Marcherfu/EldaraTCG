@@ -31,7 +31,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": 16,		
 			"FFA": 16,		
@@ -70,7 +70,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -109,7 +109,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -148,7 +148,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -187,7 +187,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 1,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -226,7 +226,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -265,7 +265,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -304,7 +304,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 5,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -343,7 +343,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -382,7 +382,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -421,7 +421,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 3,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -460,7 +460,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 4,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -499,7 +499,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 3,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -538,7 +538,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 5,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -577,7 +577,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -616,7 +616,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 2,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -655,7 +655,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 3,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -694,7 +694,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -733,7 +733,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 4,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -772,7 +772,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 2,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -811,7 +811,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -850,7 +850,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -889,7 +889,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 0,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -928,7 +928,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -967,7 +967,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 3,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1006,7 +1006,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1045,7 +1045,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1084,7 +1084,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1123,7 +1123,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1162,7 +1162,7 @@
 		],			
 		"Sub-type": "Angel",			
 		"ATK": 6,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1201,7 +1201,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": 16,		
 			"FFA": 16,		
@@ -1240,7 +1240,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1279,7 +1279,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 4,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1318,7 +1318,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1357,7 +1357,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 5,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1396,7 +1396,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1435,7 +1435,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1474,7 +1474,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 2,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1513,7 +1513,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1552,7 +1552,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 5,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1591,7 +1591,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 3,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1630,7 +1630,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1669,7 +1669,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1708,7 +1708,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1747,7 +1747,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1786,7 +1786,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1825,7 +1825,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 0,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1864,7 +1864,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 10,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1903,7 +1903,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1942,7 +1942,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -1981,7 +1981,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 3,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2020,7 +2020,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2059,7 +2059,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2098,7 +2098,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2137,7 +2137,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2176,7 +2176,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2215,7 +2215,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 3,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2254,7 +2254,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 3,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2293,7 +2293,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 4,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2332,7 +2332,7 @@
 		],			
 		"Sub-type": "Dragon",			
 		"ATK": 6,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2371,7 +2371,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": 16,		
 			"FFA": 16,		
@@ -2410,7 +2410,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2449,7 +2449,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2488,7 +2488,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2527,7 +2527,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2566,7 +2566,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 0,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2605,7 +2605,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 2,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2644,7 +2644,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2683,7 +2683,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2722,7 +2722,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2761,7 +2761,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2800,7 +2800,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2839,7 +2839,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 3,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2878,7 +2878,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 3,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2917,7 +2917,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 6,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2956,7 +2956,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -2995,7 +2995,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3034,7 +3034,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 0,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3073,7 +3073,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3112,7 +3112,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3151,7 +3151,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 3,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3190,7 +3190,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3229,7 +3229,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3268,7 +3268,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3307,7 +3307,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3346,7 +3346,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3385,7 +3385,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3424,7 +3424,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3463,7 +3463,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3502,7 +3502,7 @@
 		],			
 		"Sub-type": "Merman",			
 		"ATK": 2,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3541,7 +3541,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": 16,		
 			"FFA": 16,		
@@ -3580,7 +3580,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3619,7 +3619,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3658,7 +3658,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3697,7 +3697,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 7,			
-		"HP": 7			
+		"HP": 7,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3736,7 +3736,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3775,7 +3775,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3814,7 +3814,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3853,7 +3853,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3892,7 +3892,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 3,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3931,7 +3931,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 3,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -3970,7 +3970,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4009,7 +4009,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 8,			
-		"HP": 8			
+		"HP": 8,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4048,7 +4048,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 10,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4087,7 +4087,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4126,7 +4126,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4165,7 +4165,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 5,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4204,7 +4204,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": 50,		
 			"FFA": 50,		
@@ -4243,7 +4243,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4282,7 +4282,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 2,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4321,7 +4321,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4360,7 +4360,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 6,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4399,7 +4399,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4438,7 +4438,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 0,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4477,7 +4477,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 4,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4516,7 +4516,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4555,7 +4555,7 @@
 		],			
 		"Sub-type": "Elf",			
 		"ATK": 4,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4594,7 +4594,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4633,7 +4633,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4672,7 +4672,7 @@
 		],			
 		"Sub-type": "Treant",			
 		"ATK": 10,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4711,7 +4711,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": 16,		
 			"FFA": 16,		
@@ -4750,7 +4750,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4789,7 +4789,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4828,7 +4828,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4867,7 +4867,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 3,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4906,7 +4906,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4945,7 +4945,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -4984,7 +4984,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5023,7 +5023,7 @@
 		],			
 		"Sub-type": "Demon",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5062,7 +5062,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 2,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5101,7 +5101,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5140,7 +5140,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 5,			
-		"HP": 6			
+		"HP": 6,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5179,7 +5179,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 3,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5218,7 +5218,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 2,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5257,7 +5257,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5296,7 +5296,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 3,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5335,7 +5335,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 0,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5374,7 +5374,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5413,7 +5413,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 2,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5452,7 +5452,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 1,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5491,7 +5491,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 2,			
-		"HP": 3			
+		"HP": 3,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5530,7 +5530,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 3,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5569,7 +5569,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 4,			
-		"HP": 5			
+		"HP": 5,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5608,7 +5608,7 @@
 		],			
 		"Sub-type": "Demon",			
 		"ATK": 1,			
-		"HP": 2			
+		"HP": 2,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5647,7 +5647,7 @@
 		],			
 		"Sub-type": "Spirit",			
 		"ATK": 3,			
-		"HP": 1			
+		"HP": 1,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5686,7 +5686,7 @@
 		],			
 		"Sub-type": "Demon",			
 		"ATK": 10,			
-		"HP": 10			
+		"HP": 10,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5725,7 +5725,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5764,7 +5764,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5803,7 +5803,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 0,			
-		"HP": 0			
+		"HP": 0,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
@@ -5842,7 +5842,7 @@
 		],			
 		"Sub-type": "",			
 		"ATK": 4,			
-		"HP": 4			
+		"HP": 4,			
 		"_legal": {			
 			"CLA": true,		
 			"FFA": true,		
