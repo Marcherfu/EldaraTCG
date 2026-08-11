@@ -9,7 +9,7 @@
 		"Gameplay": {
 			"Classic": "Classic",
 			"FFA ": "FFA (4P)",
-			"2v2": "2v2"
+			"2v2": "2v2",
             "translations.mulliganInfo": "You will need to skip this step because you need to choose the cards you want to put at the bottom of your deck. To do so, you must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand."
 		},
 		"Deck - Factions": {
@@ -35,7 +35,7 @@
 		"Gameplay": {
 			"Classic": "Classique",
 			"FFA ": "FFA (4J)",
-			"2v2": "2v2"
+			"2v2": "2v2",
 			"translations.mulliganInfo": "Vous allez devoir sauter cette étape car il faut choisir les cartes que vous souhaitez envoyer au fond de votre deck. Pour se faire, vous devez les révéler avant de les mettre au fond du deck. Puis, repiochez jusqu\'à avoir cinq cartes en main."
 		},
 		"Deck - Factions": {
