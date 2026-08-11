@@ -1,0 +1,795 @@
+{
+  "name": "Eldara TCG BETA",
+  "menuBackgroundImage": "https://marcherfu.github.io/EldaraTCG/IMG/EldaraTCG.png",
+  "translationsUrl": "https://marcherfu.github.io/EldaraTCG/JSON/EldaraTCG_Translation.json",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://marcherfu.github.io/EldaraTCG/JSON/EldaraTCGDecks.json"
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://marcherfu.github.io/EldaraTCG/JSON/CardListBETA.json",
+	"cardBack": "https://marcherfu.github.io/EldaraTCG/IMG/cardback.png",
+    "cardBackColor": "#003D3D"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "Faction",
+	  "Set"
+    ],
+    "costCurveIgnoredTypes": [
+      "Mana"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      },
+	  {
+  		"title": "FFA (4P)",
+		"gameplay": "FFA (4P)"
+	  },
+	  {
+  		"title": "2v2",
+		"gameplay": "2v2"
+	  }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "triggeredByButton": false,
+        "startingHandSize": 5,
+		"mulliganCount": {
+			"min":0,
+			"max":1
+		},
+		"mulliganCycle": {
+			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"steps": [
+				"toBottom",
+				"draw"
+			],
+			"selectionRange": {
+				"min": 0,
+				"max": 5
+			},
+			"keepCardsOrder": true
+		}
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        30
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Board",
+          "Mana",
+          "Mana_Deck"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana_Deck",
+                  "style": {
+                    "width": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Board",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana->Mana_Deck"
+        ],
+        "autoPlayFromHand": {
+          "Creature": "Stack",
+          "Spell": "Stack",
+          "Mana": "Mana"
+        },
+        "autoPlayFromStack": {
+          "Creature": "Board",
+          "Spell": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Mana Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Board": {
+            "title": "Board",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mana_Deck": {
+            "title": "Mana_Deck",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+			"drawPerTurn": 1,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mana Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#003D3D"
+          }
+        }
+      }
+    },
+    "FFA (4P)": {
+      "teams": {
+		"sharedPlayerCounter": false,
+		"placement": "alternating"
+      },
+      "newTurn": {
+        "turnOrder": "alternating"
+      },
+      "mulligan": {
+        "triggeredByButton": false,
+        "startingHandSize": 5,
+		"mulliganCount": {
+			"min":0,
+			"max":1
+		},
+		"mulliganCycle": {
+			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"steps": [
+				"toBottom",
+				"draw"
+			],
+			"selectionRange": {
+				"min": 0,
+				"max": 5
+			},
+			"keepCardsOrder": true
+		}
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        40
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Board",
+          "Mana",
+          "Mana_Deck"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana_Deck",
+                  "style": {
+                    "width": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Board",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana->Mana_Deck"
+        ],
+        "autoPlayFromHand": {
+          "Creature": "Stack",
+          "Spell": "Stack",
+          "Mana": "Mana"
+        },
+        "autoPlayFromStack": {
+          "Creature": "Board",
+          "Spell": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Mana Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Board": {
+            "title": "Board",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mana_Deck": {
+            "title": "Mana_Deck",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+			"drawPerTurn": 1,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mana Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#003D3D"
+          }
+        }
+      }
+    },
+    "2v2": {
+      "teams": {
+		"sharedPlayerCounter": true,
+		"placement": "grouped"
+      },
+      "newTurn": {
+        "turnOrder": "alternating"
+      },
+      "mulligan": {
+        "triggeredByButton": false,
+        "startingHandSize": 5,
+		"mulliganCount": {
+			"min":0,
+			"max":1
+		},
+		"mulliganCycle": {
+			"info": "You'll need to skip this step because you choose the cards you want to put at the bottom of your deck by clicking on them. You must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand.",
+			"steps": [
+				"toBottom",
+				"draw"
+			],
+			"selectionRange": {
+				"min": 0,
+				"max": 5
+			},
+			"keepCardsOrder": true
+		}
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        50
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Board",
+          "Mana",
+          "Mana_Deck"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana_Deck",
+                  "style": {
+                    "width": "13.9vh"
+                  }
+                },
+                {
+                  "section": "Board",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "row",
+              "style": {
+                "align": "center"
+              },
+              "content": [
+                {
+                  "section": "Mana",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Mana->Mana_Deck"
+        ],
+        "autoPlayFromHand": {
+          "Creature": "Stack",
+          "Spell": "Stack",
+          "Mana": "Mana"
+        },
+        "autoPlayFromStack": {
+          "Creature": "Board",
+          "Spell": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Mana Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Board": {
+            "title": "Board",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Mana_Deck": {
+            "title": "Mana_Deck",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+			"drawPerTurn": 1,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Mana Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "cardBackColor": "#003D3D"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{				
+	"CS01-01-01": {			
+		"id": "CS01-01-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name": {
+					"en":"Radiant Prism",
+					"fr":"Prisme Rayonnant",
+				},
+				"type": "Mana",
+				"cost": 0,
+				"image": {
+						"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-01.png",
+						"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-01.png"
+				},
+				"isHorizontal": false
+			}	
+		},		
+		"name": {
+			"en":"Radiant Prism",
+			"fr":"Prisme Rayonnant",
+		},
+		"type": "Mana",		
+		"cost": 0,		
+		"Faction": [		
+			"Luminae Order"	
+		],		
+		"Set": [		
+			"CS01"	
+		],		
+		"Sub-type": "",		
+		"ATK": 0,		
+		"HP": 0		
+	}
+}				

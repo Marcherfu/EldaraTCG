@@ -1,0 +1,17 @@
+{
+  "additionalLanguages": ["fr"],
+  "en": {
+    "Card types": {
+      "Creature": "Creature",
+      "Spell": "Spell",
+      "Mana": "Mana"
+    },
+  },
+  "fr": {
+    "Card types": {
+      "Creature": "Créature",
+      "Spell": "Sort",
+      "Mana": "Mana"
+    },
+  }
+}
