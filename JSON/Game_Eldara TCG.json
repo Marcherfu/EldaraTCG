@@ -335,7 +335,7 @@
 		}
       },
       "newTurn": {
-        "turnOrder": "alternating"
+        "turnOrder": "alternating",
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
@@ -589,7 +589,7 @@
 		}
       },
       "newTurn": {
-        "turnOrder": "alternating"
+        "turnOrder": "alternating",
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
