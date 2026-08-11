@@ -3,8 +3,7 @@
   "menuBackgroundImage": "https://marcherfu.github.io/EldaraTCG/IMG/EldaraTCG.png",
   "translationsUrl": "https://marcherfu.github.io/EldaraTCG/JSON/EldaraTCG_Translation.json",
   "defaultRessources": {
-    "backgrounds": [],
-    "decksUrl": "https://marcherfu.github.io/EldaraTCG/JSON/EldaraTCGDecks.json"
+    "backgrounds": []
   },
   "customHelp": "",
   "cardRotation": "90",
