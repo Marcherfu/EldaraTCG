@@ -23,10 +23,12 @@
 		},
 		"type": "Mana",		
 		"cost": 0,		
-		"Faction": [		
-			"en": "Luminae Order",
-			"fr": "Ordre Luminae"
-		],		
+		"Faction": [
+			{
+				"en": "Luminae Order",
+				"fr": "Ordre Luminae"
+			}
+		],
 		"Set": [		
 			"CS01"	
 		],		
