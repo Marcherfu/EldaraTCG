@@ -1,17 +1,55 @@
 {
-  "additionalLanguages": ["fr"],
-  "en": {
-    "Card types": {
-      "Creature": "Creature",
-      "Spell": "Spell",
-      "Mana": "Mana"
-    }
-  },
-  "fr": {
-    "Card types": {
-      "Creature": "Créature",
-      "Spell": "Sort",
-      "Mana": "Mana"
-    }
-  }
+	"additionalLanguages": ["fr"],
+	"en": {
+		"Card types": {
+			"Creature": "Creature",
+			"Spell": "Spell",
+			"Mana": "Mana"
+		},
+		"Gameplay": {
+			"Classic": "Classic",
+			"FFA ": "FFA (4P)",
+			"2v2": "2v2"
+            "translations.mulliganInfo": "You will need to skip this step because you need to choose the cards you want to put at the bottom of your deck. To do so, you must reveal them before putting them at the bottom of your deck. Then, draw until you have five cards in hand."
+		},
+		"Deck - Factions": {
+			"Faction": "Faction",
+			"Luminae Order": "Luminae Order",
+			"Abyssal Court": "Abyssal Court",
+			"Drakarian Clans": "Drakarian Clans",
+			"Verdant Coalition": "Verdant Coalition",
+			"Shattered Remnants": "Shattered Remnants"
+		},
+        "Deck - Others": {
+            "cost": "Cost",
+            "ATK": "Attack",
+            "HP": "Health"
+        }
+	},
+	"fr": {
+		"Card types": {
+			"Creature": "Créature",
+			"Spell": "Sort",
+			"Mana": "Mana"
+		},
+		"Gameplay": {
+			"Classic": "Classique",
+			"FFA ": "FFA (4J)",
+			"2v2": "2v2"
+			"translations.mulliganInfo": "Vous allez devoir sauter cette étape car il faut choisir les cartes que vous souhaitez envoyer au fond de votre deck. Pour se faire, vous devez les révéler avant de les mettre au fond du deck. Puis, repiochez jusqu\'à avoir cinq cartes en main."
+		},
+		"Deck - Factions": {
+			"Faction": "Faction",
+			"Luminae Order": "Ordre Luminae",
+			"Abyssal Court": "Cour Abyssale",
+			"Drakarian Clans": "Clans Drakariens",
+			"Verdant Coalition": "Coalition Verdoyante",
+			"Shattered Remnants": "Vestiges Brisés"
+		},
+        "Deck - Others": {
+            "cost": "Coût",
+            "ATK": "Attaque",
+            "HP": "Vie"
+        }
+	}
 }

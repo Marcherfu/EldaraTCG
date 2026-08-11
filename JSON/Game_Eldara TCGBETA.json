@@ -25,17 +25,38 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "Classic"
+        "gameplay": "Classic",
+		"legalityCode": "CLA",
+		"deckRuleset": "Classic"
       },
 	  {
   		"title": "FFA (4P)",
 		"gameplay": "FFA (4P)"
+		"legalityCode": "FFA",
+		"deckRuleset": "Classic"
 	  },
 	  {
   		"title": "2v2",
 		"gameplay": "2v2"
+		"legalityCode": "2v2",
+		"deckRuleset": "Classic"
 	  }
-    ]
+    ],
+	"deckRulesets": {
+		"Classic": {
+			"general": {
+				"min": 66,
+				"maxPerCard": 4
+			},
+            "categories": [
+				{
+					"category": "Mana",
+					"min": 16,
+					"max": 16
+				}
+			]
+		}
+	}
   },
   "gameplay": {
     "Classic": {

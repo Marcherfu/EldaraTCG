@@ -24,16 +24,18 @@
 		"type": "Mana",		
 		"cost": 0,		
 		"Faction": [
-			{
-				"en": "Luminae Order",
-				"fr": "Ordre Luminae"
-			}
+			"Luminae Order"
 		],
 		"Set": [		
 			"CS01"	
 		],		
 		"Sub-type": "",		
 		"ATK": 0,		
-		"HP": 0		
+		"HP": 0,
+		"_legal": {
+			"CLA": 16,
+			"FFA": 16,
+			"2v2": 16
+		}
 	}
 }				
