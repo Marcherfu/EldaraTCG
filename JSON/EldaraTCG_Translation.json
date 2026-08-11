@@ -5,13 +5,20 @@
       "Creature": "Creature",
       "Spell": "Spell",
       "Mana": "Mana"
-    },
+    }
   },
   "fr": {
     "Card types": {
       "Creature": "Créature",
       "Spell": "Sort",
       "Mana": "Mana"
-    },
+    }
+	"Factions": {
+		"Luminae Order": "Ordre Luminae",
+		"Abyssal Court": "Cour Abyssale",
+		"Drakarian Clans": "Clans Drakariens",
+		"Verdant Coalition": "Coalition Verdoyante",
+		"Shattered Remnants": "Vestiges Brisés"
+	}
   }
 }
