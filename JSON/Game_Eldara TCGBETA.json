@@ -31,13 +31,13 @@
       },
 	  {
   		"title": "FFA (4P)",
-		"gameplay": "FFA (4P)"
+		"gameplay": "FFA (4P)",
 		"legalityCode": "FFA",
 		"deckRuleset": "Classic"
 	  },
 	  {
   		"title": "2v2",
-		"gameplay": "2v2"
+		"gameplay": "2v2",
 		"legalityCode": "2v2",
 		"deckRuleset": "Classic"
 	  }
