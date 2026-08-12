@@ -4611,7 +4611,7 @@
 					"fr": ""
 				},	
 				"type": "Spell",	
-				"cost": 8,	
+				"cost": 7,	
 				"image": {	
 					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-29.png"
@@ -4624,7 +4624,7 @@
 			"fr": "Seasonal Change"		
 		},			
 		"type": "Spell",			
-		"cost": 8,			
+		"cost": 7,			
 		"Faction": [			
 			"Verdant Coalition"		
 		],			
@@ -5742,7 +5742,7 @@
 					"fr": ""
 				},	
 				"type": "Spell",	
-				"cost": 5,	
+				"cost": 4,	
 				"image": {	
 					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-28.png"
@@ -5755,7 +5755,7 @@
 			"fr": "Fracturize"		
 		},			
 		"type": "Spell",			
-		"cost": 5,			
+		"cost": 4,			
 		"Faction": [			
 			"Shattered Remnants"		
 		],			
@@ -5781,7 +5781,7 @@
 					"fr": ""
 				},	
 				"type": "Spell",	
-				"cost": 6,	
+				"cost": 5,	
 				"image": {	
 					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-29.png"
@@ -5794,7 +5794,7 @@
 			"fr": "Soulburst"		
 		},			
 		"type": "Spell",			
-		"cost": 6,			
+		"cost": 5,			
 		"Faction": [			
 			"Shattered Remnants"		
 		],			
