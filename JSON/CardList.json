@@ -6,7 +6,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Radiant Prism",
-					"fr": ""
+					"fr": "Prisme Rayonnant"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -19,7 +19,7 @@
 		},			
 		"name": {			
 			"en": "Radiant Prism",		
-			"fr": "Radiant Prism"		
+			"fr": "Prisme Rayonnant"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -45,7 +45,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Dawnlight Sigil",
-					"fr": ""
+					"fr": "Sceau de la Lumière de l'Aube"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -58,7 +58,7 @@
 		},			
 		"name": {			
 			"en": "Dawnlight Sigil",		
-			"fr": "Dawnlight Sigil"		
+			"fr": "Sceau de la Lumière de l'Aube"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -84,7 +84,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Bright Spark",
-					"fr": ""
+					"fr": "Etincelle Brillante"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -97,7 +97,7 @@
 		},			
 		"name": {			
 			"en": "Bright Spark",		
-			"fr": "Bright Spark"		
+			"fr": "Etincelle Brillante"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -123,7 +123,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Shining Entrance",
-					"fr": ""
+					"fr": "Entrée Eclatante"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -136,7 +136,7 @@
 		},			
 		"name": {			
 			"en": "Shining Entrance",		
-			"fr": "Shining Entrance"		
+			"fr": "Entrée Eclatante"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -162,7 +162,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Holy Infantryman",
-					"fr": ""
+					"fr": "Saint Fantassin"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -175,7 +175,7 @@
 		},			
 		"name": {			
 			"en": "Holy Infantryman",		
-			"fr": "Holy Infantryman"		
+			"fr": "Saint Fantassin"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -201,7 +201,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Sacred Lancer",
-					"fr": ""
+					"fr": "Lancier Sacré"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -214,7 +214,7 @@
 		},			
 		"name": {			
 			"en": "Sacred Lancer",		
-			"fr": "Sacred Lancer"		
+			"fr": "Lancier Sacré"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -240,7 +240,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Angelic Banner Bearer",
-					"fr": ""
+					"fr": "Porteur de Bannière Angélique"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -253,7 +253,7 @@
 		},			
 		"name": {			
 			"en": "Angelic Banner Bearer",		
-			"fr": "Angelic Banner Bearer"		
+			"fr": "Porteur de Bannière Angélique"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -279,7 +279,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Luminae Archangel",
-					"fr": ""
+					"fr": "Archange Luminae"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -292,7 +292,7 @@
 		},			
 		"name": {			
 			"en": "Luminae Archangel",		
-			"fr": "Luminae Archangel"		
+			"fr": "Archange Luminae"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -318,7 +318,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Lightveil Angel",
-					"fr": ""
+					"fr": "Ange Voilé de Lumière"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -331,7 +331,7 @@
 		},			
 		"name": {			
 			"en": "Lightveil Angel",		
-			"fr": "Lightveil Angel"		
+			"fr": "Ange Voilé de Lumière"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -357,7 +357,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Luminae Crusade",
-					"fr": ""
+					"fr": "Croisade Luminae"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -370,7 +370,7 @@
 		},			
 		"name": {			
 			"en": "Luminae Crusade",		
-			"fr": "Luminae Crusade"		
+			"fr": "Croisade Luminae"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -396,7 +396,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Radiant Arbiter",
-					"fr": ""
+					"fr": "Autorité Radieuse"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -409,7 +409,7 @@
 		},			
 		"name": {			
 			"en": "Radiant Arbiter",		
-			"fr": "Radiant Arbiter"		
+			"fr": "Autorité Radieuse"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -435,7 +435,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Glorywing Herald",
-					"fr": ""
+					"fr": "Héraut aux Ailes Glorieuses"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -448,7 +448,7 @@
 		},			
 		"name": {			
 			"en": "Glorywing Herald",		
-			"fr": "Glorywing Herald"		
+			"fr": "Héraut aux Ailes Glorieuses"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -474,7 +474,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Lightbringer of the Sanctuary",
-					"fr": ""
+					"fr": "Porteur de Lumière du Sanctuaire"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -487,7 +487,7 @@
 		},			
 		"name": {			
 			"en": "Lightbringer of the Sanctuary",		
-			"fr": "Lightbringer of the Sanctuary"		
+			"fr": "Porteur de Lumière du Sanctuaire"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -513,7 +513,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Arbiter of Judgement",
-					"fr": ""
+					"fr": "Autorité du Jugement"
 				},	
 				"type": "Creature",	
 				"cost": 7,	
@@ -526,7 +526,7 @@
 		},			
 		"name": {			
 			"en": "Arbiter of Judgement",		
-			"fr": "Arbiter of Judgement"		
+			"fr": "Autorité du Jugement"		
 		},			
 		"type": "Creature",			
 		"cost": 7,			
@@ -552,7 +552,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Final Judgement",
-					"fr": ""
+					"fr": "Jugement Dernier"
 				},	
 				"type": "Spell",	
 				"cost": 10,	
@@ -565,7 +565,7 @@
 		},			
 		"name": {			
 			"en": "Final Judgement",		
-			"fr": "Final Judgement"		
+			"fr": "Jugement Dernier"		
 		},			
 		"type": "Spell",			
 		"cost": 10,			
@@ -591,7 +591,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Angel of Blessings",
-					"fr": ""
+					"fr": "Ange des Bénédictions"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -604,7 +604,7 @@
 		},			
 		"name": {			
 			"en": "Angel of Blessings",		
-			"fr": "Angel of Blessings"		
+			"fr": "Ange des Bénédictions"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -630,7 +630,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Dawnshaper Luminary",
-					"fr": ""
+					"fr": "Sommité Façonneuse d'Aube"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -643,7 +643,7 @@
 		},			
 		"name": {			
 			"en": "Dawnshaper Luminary",		
-			"fr": "Dawnshaper Luminary"		
+			"fr": "Sommité Façonneuse d'Aube"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -669,7 +669,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Lightbinding Chains",
-					"fr": ""
+					"fr": "Chaines de Lumière Entravante"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -682,7 +682,7 @@
 		},			
 		"name": {			
 			"en": "Lightbinding Chains",		
-			"fr": "Lightbinding Chains"		
+			"fr": "Chaines de Lumière Entravante"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -708,7 +708,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Keeper of Celestial Light",
-					"fr": ""
+					"fr": "Gardien de la Lumière Céleste"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -721,7 +721,7 @@
 		},			
 		"name": {			
 			"en": "Keeper of Celestial Light",		
-			"fr": "Keeper of Celestial Light"		
+			"fr": "Gardien de la Lumière Céleste"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -747,7 +747,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Argent Sage",
-					"fr": ""
+					"fr": "Sage d'Argent"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -760,7 +760,7 @@
 		},			
 		"name": {			
 			"en": "Argent Sage",		
-			"fr": "Argent Sage"		
+			"fr": "Sage d'Argent"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -786,7 +786,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Radiant Echo",
-					"fr": ""
+					"fr": "Echo Radieux"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -799,7 +799,7 @@
 		},			
 		"name": {			
 			"en": "Radiant Echo",		
-			"fr": "Radiant Echo"		
+			"fr": "Echo Radieux"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -825,7 +825,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Restoration Blessing",
-					"fr": ""
+					"fr": "Bénédiction de Restauration"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -838,7 +838,7 @@
 		},			
 		"name": {			
 			"en": "Restoration Blessing",		
-			"fr": "Restoration Blessing"		
+			"fr": "Bénédiction de Restauration"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -864,7 +864,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Judge of the Reliquary",
-					"fr": ""
+					"fr": "Juge du Reliquaire"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -877,7 +877,7 @@
 		},			
 		"name": {			
 			"en": "Judge of the Reliquary",		
-			"fr": "Judge of the Reliquary"		
+			"fr": "Juge du Reliquaire"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -903,7 +903,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Dawnlight Angel",
-					"fr": ""
+					"fr": "Ange de la Lumière de l'Aube"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -916,7 +916,7 @@
 		},			
 		"name": {			
 			"en": "Dawnlight Angel",		
-			"fr": "Dawnlight Angel"		
+			"fr": "Ange de la Lumière de l'Aube"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -942,7 +942,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Glorywing Vanguard",
-					"fr": ""
+					"fr": "Avant-garde aux Ailes Glorieuses"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -955,7 +955,7 @@
 		},			
 		"name": {			
 			"en": "Glorywing Vanguard",		
-			"fr": "Glorywing Vanguard"		
+			"fr": "Avant-garde aux Ailes Glorieuses"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -981,7 +981,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Divine Inquiry",
-					"fr": ""
+					"fr": "Requête Divine"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -994,7 +994,7 @@
 		},			
 		"name": {			
 			"en": "Divine Inquiry",		
-			"fr": "Divine Inquiry"		
+			"fr": "Requête Divine"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -1020,7 +1020,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Sacred Contract",
-					"fr": ""
+					"fr": "Contrat Sacré"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -1033,7 +1033,7 @@
 		},			
 		"name": {			
 			"en": "Sacred Contract",		
-			"fr": "Sacred Contract"		
+			"fr": "Contrat Sacré"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -1059,7 +1059,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Radiant Missive",
-					"fr": ""
+					"fr": "Missive Radieuse"
 				},	
 				"type": "Spell",	
 				"cost": 6,	
@@ -1072,7 +1072,7 @@
 		},			
 		"name": {			
 			"en": "Radiant Missive",		
-			"fr": "Radiant Missive"		
+			"fr": "Missive Radieuse"		
 		},			
 		"type": "Spell",			
 		"cost": 6,			
@@ -1098,7 +1098,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Holy Verdict",
-					"fr": ""
+					"fr": "Verdict Saint"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -1111,7 +1111,7 @@
 		},			
 		"name": {			
 			"en": "Holy Verdict",		
-			"fr": "Holy Verdict"		
+			"fr": "Verdict Saint"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -1137,7 +1137,7 @@
 			"front": {		
 				"name" : {	
 					"en": "High Luminary Seraphis",
-					"fr": ""
+					"fr": "Seraphis, Grande Sommité"
 				},	
 				"type": "Creature",	
 				"cost": 10,	
@@ -1150,7 +1150,7 @@
 		},			
 		"name": {			
 			"en": "High Luminary Seraphis",		
-			"fr": "High Luminary Seraphis"		
+			"fr": "Seraphis, Grande Sommité"		
 		},			
 		"type": "Creature",			
 		"cost": 10,			
@@ -1176,7 +1176,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Dragon's Scale",
-					"fr": ""
+					"fr": "Ecaille de Dragon"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -1189,7 +1189,7 @@
 		},			
 		"name": {			
 			"en": "Dragon's Scale",		
-			"fr": "Dragon's Scale"		
+			"fr": "Ecaille de Dragon"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -1215,7 +1215,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Emberfang Talisman",
-					"fr": ""
+					"fr": "Talisman Croc-de-Braise"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -1228,7 +1228,7 @@
 		},			
 		"name": {			
 			"en": "Emberfang Talisman",		
-			"fr": "Emberfang Talisman"		
+			"fr": "Talisman Croc-de-Braise"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -1254,7 +1254,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Furious Dragonblader",
-					"fr": ""
+					"fr": "Epéiste Draconique Furieux"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -1267,7 +1267,7 @@
 		},			
 		"name": {			
 			"en": "Furious Dragonblader",		
-			"fr": "Furious Dragonblader"		
+			"fr": "Epéiste Draconique Furieux"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -1293,7 +1293,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Blazing Burst",
-					"fr": ""
+					"fr": "Explosion Ardente"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -1306,7 +1306,7 @@
 		},			
 		"name": {			
 			"en": "Blazing Burst",		
-			"fr": "Blazing Burst"		
+			"fr": "Explosion Ardente"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -1332,7 +1332,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Everburning Dragon",
-					"fr": ""
+					"fr": "Dragon à la Flamme Eternelle"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -1345,7 +1345,7 @@
 		},			
 		"name": {			
 			"en": "Everburning Dragon",		
-			"fr": "Everburning Dragon"		
+			"fr": "Dragon à la Flamme Eternelle"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -1371,7 +1371,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Drakarian Brawler",
-					"fr": ""
+					"fr": "Bagarreur Drakarien"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -1384,7 +1384,7 @@
 		},			
 		"name": {			
 			"en": "Drakarian Brawler",		
-			"fr": "Drakarian Brawler"		
+			"fr": "Bagarreur Drakarien"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -1410,7 +1410,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Swift Salamander",
-					"fr": ""
+					"fr": "Salamandre Agile"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -1423,7 +1423,7 @@
 		},			
 		"name": {			
 			"en": "Swift Salamander",		
-			"fr": "Swift Salamander"		
+			"fr": "Salamandre Agile"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -1449,7 +1449,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Drakarian Student",
-					"fr": ""
+					"fr": "Disciple Drakarien"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -1462,7 +1462,7 @@
 		},			
 		"name": {			
 			"en": "Drakarian Student",		
-			"fr": "Drakarian Student"		
+			"fr": "Disciple Drakarien"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -1488,7 +1488,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Smoldering Embermaw",
-					"fr": ""
+					"fr": "Gueule-de-Braise Enfumée"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -1501,7 +1501,7 @@
 		},			
 		"name": {			
 			"en": "Smoldering Embermaw",		
-			"fr": "Smoldering Embermaw"		
+			"fr": "Gueule-de-Braise Enfumée"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -1527,7 +1527,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Ashwing Drake",
-					"fr": ""
+					"fr": "Dragon aux Ailes Cendrées"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -1540,7 +1540,7 @@
 		},			
 		"name": {			
 			"en": "Ashwing Drake",		
-			"fr": "Ashwing Drake"		
+			"fr": "Dragon aux Ailes Cendrées"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -1566,7 +1566,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Flamespit Whelp",
-					"fr": ""
+					"fr": "Dragonnet Cracheur de Feu"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -1579,7 +1579,7 @@
 		},			
 		"name": {			
 			"en": "Flamespit Whelp",		
-			"fr": "Flamespit Whelp"		
+			"fr": "Dragonnet Cracheur de Feu"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -1605,7 +1605,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Emberfang Prowler",
-					"fr": ""
+					"fr": "Rôdeur Croc-de-Braise"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -1618,7 +1618,7 @@
 		},			
 		"name": {			
 			"en": "Emberfang Prowler",		
-			"fr": "Emberfang Prowler"		
+			"fr": "Rôdeur Croc-de-Braise"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -1644,7 +1644,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Drakarian Emberling",
-					"fr": ""
+					"fr": "Petite-Braise Drakarienne"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -1657,7 +1657,7 @@
 		},			
 		"name": {			
 			"en": "Drakarian Emberling",		
-			"fr": "Drakarian Emberling"		
+			"fr": "Petite-Braise Drakarienne"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -1683,7 +1683,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Might of the Clans",
-					"fr": ""
+					"fr": "Puissance des Clans"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -1696,7 +1696,7 @@
 		},			
 		"name": {			
 			"en": "Might of the Clans",		
-			"fr": "Might of the Clans"		
+			"fr": "Puissance des Clans"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -1722,7 +1722,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Warcry",
-					"fr": ""
+					"fr": "Cri de Guerre"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -1735,7 +1735,7 @@
 		},			
 		"name": {			
 			"en": "Warcry",		
-			"fr": "Warcry"		
+			"fr": "Cri de Guerre"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -1761,7 +1761,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Everburning Wrath",
-					"fr": ""
+					"fr": "Colère de la Flamme Eternelle"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -1774,7 +1774,7 @@
 		},			
 		"name": {			
 			"en": "Everburning Wrath",		
-			"fr": "Everburning Wrath"		
+			"fr": "Colère de la Flamme Eternelle"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -1800,7 +1800,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Hermit Dragon",
-					"fr": ""
+					"fr": "Dragon Hermite"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -1813,7 +1813,7 @@
 		},			
 		"name": {			
 			"en": "Hermit Dragon",		
-			"fr": "Hermit Dragon"		
+			"fr": "Dragon Hermite"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -1839,7 +1839,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elder Dragon of Destruction, Ashflame",
-					"fr": ""
+					"fr": "Ancien Dragon de la Destruction, Ashflame"
 				},	
 				"type": "Creature",	
 				"cost": 16,	
@@ -1852,7 +1852,7 @@
 		},			
 		"name": {			
 			"en": "Elder Dragon of Destruction, Ashflame",		
-			"fr": "Elder Dragon of Destruction, Ashflame"		
+			"fr": "Ancien Dragon de la Destruction, Ashflame"		
 		},			
 		"type": "Creature",			
 		"cost": 16,			
@@ -1878,7 +1878,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Blast of Destruction",
-					"fr": ""
+					"fr": "Courroux Destructeur"
 				},	
 				"type": "Spell",	
 				"cost": 16,	
@@ -1891,7 +1891,7 @@
 		},			
 		"name": {			
 			"en": "Blast of Destruction",		
-			"fr": "Blast of Destruction"		
+			"fr": "Courroux Destructeur"		
 		},			
 		"type": "Spell",			
 		"cost": 16,			
@@ -1917,7 +1917,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Clawbringer",
-					"fr": ""
+					"fr": "Porte-griffe"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -1930,7 +1930,7 @@
 		},			
 		"name": {			
 			"en": "Clawbringer",		
-			"fr": "Clawbringer"		
+			"fr": "Porte-griffe"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -1956,7 +1956,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Poisonous Drake",
-					"fr": ""
+					"fr": "Dragon Venimeux"
 				},	
 				"type": "Creature",	
 				"cost": 9,	
@@ -1969,7 +1969,7 @@
 		},			
 		"name": {			
 			"en": "Poisonous Drake",		
-			"fr": "Poisonous Drake"		
+			"fr": "Dragon Venimeux"		
 		},			
 		"type": "Creature",			
 		"cost": 9,			
@@ -1995,7 +1995,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Embers of Creation",
-					"fr": ""
+					"fr": "Braises de la Création"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -2008,7 +2008,7 @@
 		},			
 		"name": {			
 			"en": "Embers of Creation",		
-			"fr": "Embers of Creation"		
+			"fr": "Braises de la Création"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -2034,7 +2034,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Scorching Strike",
-					"fr": ""
+					"fr": "Frappe Brûlante"
 				},	
 				"type": "Spell",	
 				"cost": 0,	
@@ -2047,7 +2047,7 @@
 		},			
 		"name": {			
 			"en": "Scorching Strike",		
-			"fr": "Scorching Strike"		
+			"fr": "Frappe Brûlante"		
 		},			
 		"type": "Spell",			
 		"cost": 0,			
@@ -2073,7 +2073,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Unstoppable Object",
-					"fr": ""
+					"fr": "Objet Inarrêtable"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -2086,7 +2086,7 @@
 		},			
 		"name": {			
 			"en": "Unstoppable Object",		
-			"fr": "Unstoppable Object"		
+			"fr": "Objet Inarrêtable"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -2112,7 +2112,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Emberfang Initiate",
-					"fr": ""
+					"fr": "Croc-de-Braise Initié"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -2125,7 +2125,7 @@
 		},			
 		"name": {			
 			"en": "Emberfang Initiate",		
-			"fr": "Emberfang Initiate"		
+			"fr": "Croc-de-Braise Initié"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -2151,7 +2151,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Drakarian Scavenger",
-					"fr": ""
+					"fr": "Charognard Drakarien"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -2164,7 +2164,7 @@
 		},			
 		"name": {			
 			"en": "Drakarian Scavenger",		
-			"fr": "Drakarian Scavenger"		
+			"fr": "Charognard Drakarien"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -2190,7 +2190,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Adherent of Unification",
-					"fr": ""
+					"fr": "Adhérent de l'Unification"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -2203,7 +2203,7 @@
 		},			
 		"name": {			
 			"en": "Adherent of Unification",		
-			"fr": "Adherent of Unification"		
+			"fr": "Adhérent de l'Unification"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -2229,7 +2229,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Inferno Drake",
-					"fr": ""
+					"fr": "Dragon Infernal"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -2242,7 +2242,7 @@
 		},			
 		"name": {			
 			"en": "Inferno Drake",		
-			"fr": "Inferno Drake"		
+			"fr": "Dragon Infernal"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -2268,7 +2268,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Flame-Eating Drake",
-					"fr": ""
+					"fr": "Dragon Mange-Flammes"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -2281,7 +2281,7 @@
 		},			
 		"name": {			
 			"en": "Flame-Eating Drake",		
-			"fr": "Flame-Eating Drake"		
+			"fr": "Dragon Mange-Flammes"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -2307,7 +2307,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Ignis the Great Unifier",
-					"fr": ""
+					"fr": "Ignis le Grand Unificateur"
 				},	
 				"type": "Creature",	
 				"cost": 7,	
@@ -2320,7 +2320,7 @@
 		},			
 		"name": {			
 			"en": "Ignis the Great Unifier",		
-			"fr": "Ignis the Great Unifier"		
+			"fr": "Ignis le Grand Unificateur"		
 		},			
 		"type": "Creature",			
 		"cost": 7,			
@@ -2346,7 +2346,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Crystal",
-					"fr": ""
+					"fr": "Crystal Abyssal"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -2359,7 +2359,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Crystal",		
-			"fr": "Abyssal Crystal"		
+			"fr": "Crystal Abyssal"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -2385,7 +2385,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Tidal Fragment",
-					"fr": ""
+					"fr": "Fragment de la Marée"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -2398,7 +2398,7 @@
 		},			
 		"name": {			
 			"en": "Tidal Fragment",		
-			"fr": "Tidal Fragment"		
+			"fr": "Fragment de la Marée"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -2424,7 +2424,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Dive",
-					"fr": ""
+					"fr": "Plongée Abyssale"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -2437,7 +2437,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Dive",		
-			"fr": "Abyssal Dive"		
+			"fr": "Plongée Abyssale"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -2463,7 +2463,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Edicts of the Court",
-					"fr": ""
+					"fr": "Edits de la Cour"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -2476,7 +2476,7 @@
 		},			
 		"name": {			
 			"en": "Edicts of the Court",		
-			"fr": "Edicts of the Court"		
+			"fr": "Edits de la Cour"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -2502,7 +2502,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Endgame",
-					"fr": ""
+					"fr": "Dénouement Abyssal"
 				},	
 				"type": "Spell",	
 				"cost": 25,	
@@ -2515,7 +2515,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Endgame",		
-			"fr": "Abyssal Endgame"		
+			"fr": "Dénouement Abyssal"		
 		},			
 		"type": "Spell",			
 		"cost": 25,			
@@ -2541,7 +2541,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Royal Guard",
-					"fr": ""
+					"fr": "Garde Royal"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -2554,7 +2554,7 @@
 		},			
 		"name": {			
 			"en": "Royal Guard",		
-			"fr": "Royal Guard"		
+			"fr": "Garde Royal"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -2580,7 +2580,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Court Scribe",
-					"fr": ""
+					"fr": "Scribe de la Cour"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -2593,7 +2593,7 @@
 		},			
 		"name": {			
 			"en": "Court Scribe",		
-			"fr": "Court Scribe"		
+			"fr": "Scribe de la Cour"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -2619,7 +2619,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Court Assembly",
-					"fr": ""
+					"fr": "Assemblée de la Cour"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -2632,7 +2632,7 @@
 		},			
 		"name": {			
 			"en": "Court Assembly",		
-			"fr": "Court Assembly"		
+			"fr": "Assemblée de la Cour"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -2658,7 +2658,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Tidal Wave",
-					"fr": ""
+					"fr": "Raz-de-marée"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -2671,7 +2671,7 @@
 		},			
 		"name": {			
 			"en": "Tidal Wave",		
-			"fr": "Tidal Wave"		
+			"fr": "Raz-de-marée"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -2697,7 +2697,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Whirlpool of Fate",
-					"fr": ""
+					"fr": "Tourbillon du Destin"
 				},	
 				"type": "Spell",	
 				"cost": 8,	
@@ -2710,7 +2710,7 @@
 		},			
 		"name": {			
 			"en": "Whirlpool of Fate",		
-			"fr": "Whirlpool of Fate"		
+			"fr": "Tourbillon du Destin"		
 		},			
 		"type": "Spell",			
 		"cost": 8,			
@@ -2736,7 +2736,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Crushing Undertow",
-					"fr": ""
+					"fr": "Courant de Fond Ecrasant"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -2749,7 +2749,7 @@
 		},			
 		"name": {			
 			"en": "Crushing Undertow",		
-			"fr": "Crushing Undertow"		
+			"fr": "Courant de Fond Ecrasant"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -2775,7 +2775,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Currents of Resurgence",
-					"fr": ""
+					"fr": "Courants du Renouveau"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -2788,7 +2788,7 @@
 		},			
 		"name": {			
 			"en": "Currents of Resurgence",		
-			"fr": "Currents of Resurgence"		
+			"fr": "Courants du Renouveau"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -2814,7 +2814,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Watcher",
-					"fr": ""
+					"fr": "Gardien Abyssal"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -2827,7 +2827,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Watcher",		
-			"fr": "Abyssal Watcher"		
+			"fr": "Gardien Abyssal"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -2853,7 +2853,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Waveblader",
-					"fr": ""
+					"fr": "Vague-Lame"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -2866,7 +2866,7 @@
 		},			
 		"name": {			
 			"en": "Waveblader",		
-			"fr": "Waveblader"		
+			"fr": "Vague-Lame"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -2892,7 +2892,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Leviathan",
-					"fr": ""
+					"fr": "Léviathan"
 				},	
 				"type": "Creature",	
 				"cost": 6,	
@@ -2905,7 +2905,7 @@
 		},			
 		"name": {			
 			"en": "Leviathan",		
-			"fr": "Leviathan"		
+			"fr": "Léviathan"		
 		},			
 		"type": "Creature",			
 		"cost": 6,			
@@ -2931,7 +2931,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Maw from Below",
-					"fr": ""
+					"fr": "Gueule des Profondeurs"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -2944,7 +2944,7 @@
 		},			
 		"name": {			
 			"en": "Maw from Below",		
-			"fr": "Maw from Below"		
+			"fr": "Gueule des Profondeurs"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -2970,7 +2970,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Call to Order",
-					"fr": ""
+					"fr": "Appel à l'Ordre"
 				},	
 				"type": "Spell",	
 				"cost": 9,	
@@ -2983,7 +2983,7 @@
 		},			
 		"name": {			
 			"en": "Call to Order",		
-			"fr": "Call to Order"		
+			"fr": "Appel à l'Ordre"		
 		},			
 		"type": "Spell",			
 		"cost": 9,			
@@ -3009,7 +3009,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Paranoid Bureaucrat",
-					"fr": ""
+					"fr": "Bureaucrate Paranoïaque"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -3022,7 +3022,7 @@
 		},			
 		"name": {			
 			"en": "Paranoid Bureaucrat",		
-			"fr": "Paranoid Bureaucrat"		
+			"fr": "Bureaucrate Paranoïaque"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -3048,7 +3048,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Fracture",
-					"fr": ""
+					"fr": "Fracture Abyssale"
 				},	
 				"type": "Spell",	
 				"cost": 10,	
@@ -3061,7 +3061,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Fracture",		
-			"fr": "Abyssal Fracture"		
+			"fr": "Fracture Abyssale"		
 		},			
 		"type": "Spell",			
 		"cost": 10,			
@@ -3087,7 +3087,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Mandated Merman",
-					"fr": ""
+					"fr": "Triton Mandaté"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -3100,7 +3100,7 @@
 		},			
 		"name": {			
 			"en": "Mandated Merman",		
-			"fr": "Mandated Merman"		
+			"fr": "Triton Mandaté"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -3126,7 +3126,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Court Joker",
-					"fr": ""
+					"fr": "Bouffon de la Cour"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -3139,7 +3139,7 @@
 		},			
 		"name": {			
 			"en": "Court Joker",		
-			"fr": "Court Joker"		
+			"fr": "Bouffon de la Cour"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -3165,7 +3165,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Tidal Pact",
-					"fr": ""
+					"fr": "Pacte des Marées"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3178,7 +3178,7 @@
 		},			
 		"name": {			
 			"en": "Tidal Pact",		
-			"fr": "Tidal Pact"		
+			"fr": "Pacte des Marées"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3204,7 +3204,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Exchange",
-					"fr": ""
+					"fr": "Echange Abyssal"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3217,7 +3217,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Exchange",		
-			"fr": "Abyssal Exchange"		
+			"fr": "Echange Abyssal"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3243,7 +3243,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Royal Decree",
-					"fr": ""
+					"fr": "Décrêt Royal"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -3256,7 +3256,7 @@
 		},			
 		"name": {			
 			"en": "Royal Decree",		
-			"fr": "Royal Decree"		
+			"fr": "Décrêt Royal"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -3282,7 +3282,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Tribute to the Court",
-					"fr": ""
+					"fr": "Tribut à la Cour"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -3295,7 +3295,7 @@
 		},			
 		"name": {			
 			"en": "Tribute to the Court",		
-			"fr": "Tribute to the Court"		
+			"fr": "Tribut à la Cour"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -3321,7 +3321,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Bargain",
-					"fr": ""
+					"fr": "Négotiation"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3334,7 +3334,7 @@
 		},			
 		"name": {			
 			"en": "Bargain",		
-			"fr": "Bargain"		
+			"fr": "Négotiation"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3360,7 +3360,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Abyssal Collapse",
-					"fr": ""
+					"fr": "Effondrement Abyssal"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -3373,7 +3373,7 @@
 		},			
 		"name": {			
 			"en": "Abyssal Collapse",		
-			"fr": "Abyssal Collapse"		
+			"fr": "Effondrement Abyssal"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -3399,7 +3399,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Court Schemings",
-					"fr": ""
+					"fr": "Intrigues de Cour"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -3412,7 +3412,7 @@
 		},			
 		"name": {			
 			"en": "Court Schemings",		
-			"fr": "Court Schemings"		
+			"fr": "Intrigues de Cour"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -3438,7 +3438,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Court Tradings",
-					"fr": ""
+					"fr": "Transactions de la Cour"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3451,7 +3451,7 @@
 		},			
 		"name": {			
 			"en": "Court Tradings",		
-			"fr": "Court Tradings"		
+			"fr": "Transactions de la Cour"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3477,7 +3477,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Queen Nereida of the Abyssal Depths",
-					"fr": ""
+					"fr": "Reine Nereida des Profondeurs Abyssales"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -3490,7 +3490,7 @@
 		},			
 		"name": {			
 			"en": "Queen Nereida of the Abyssal Depths",		
-			"fr": "Queen Nereida of the Abyssal Depths"		
+			"fr": "Reine Nereida des Profondeurs Abyssales"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -3516,7 +3516,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Essence of Life",
-					"fr": ""
+					"fr": "Essence Vitale"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -3529,7 +3529,7 @@
 		},			
 		"name": {			
 			"en": "Essence of Life",		
-			"fr": "Essence of Life"		
+			"fr": "Essence Vitale"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -3555,7 +3555,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Blooming Shard",
-					"fr": ""
+					"fr": "Eclat Florissant"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -3568,7 +3568,7 @@
 		},			
 		"name": {			
 			"en": "Blooming Shard",		
-			"fr": "Blooming Shard"		
+			"fr": "Eclat Florissant"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -3594,7 +3594,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Animate Life",
-					"fr": ""
+					"fr": "Manifestation de Vie"
 				},	
 				"type": "Spell",	
 				"cost": 6,	
@@ -3607,7 +3607,7 @@
 		},			
 		"name": {			
 			"en": "Animate Life",		
-			"fr": "Animate Life"		
+			"fr": "Manifestation de Vie"		
 		},			
 		"type": "Spell",			
 		"cost": 6,			
@@ -3633,7 +3633,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Verdant Bloom",
-					"fr": ""
+					"fr": "Floraison Verdoyante"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -3646,7 +3646,7 @@
 		},			
 		"name": {			
 			"en": "Verdant Bloom",		
-			"fr": "Verdant Bloom"		
+			"fr": "Floraison Verdoyante"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -3672,7 +3672,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Giant Treant",
-					"fr": ""
+					"fr": "Tréant Géant"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -3685,7 +3685,7 @@
 		},			
 		"name": {			
 			"en": "Giant Treant",		
-			"fr": "Giant Treant"		
+			"fr": "Tréant Géant"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -3711,7 +3711,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Recycle",
-					"fr": ""
+					"fr": "Recyclage"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3724,7 +3724,7 @@
 		},			
 		"name": {			
 			"en": "Recycle",		
-			"fr": "Recycle"		
+			"fr": "Recyclage"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3750,7 +3750,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elvish Ranger",
-					"fr": ""
+					"fr": "Rôdeur Elfique"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -3763,7 +3763,7 @@
 		},			
 		"name": {			
 			"en": "Elvish Ranger",		
-			"fr": "Elvish Ranger"		
+			"fr": "Rôdeur Elfique"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -3789,7 +3789,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elvish Gatherer",
-					"fr": ""
+					"fr": "Cueilleur Elfique"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -3802,7 +3802,7 @@
 		},			
 		"name": {			
 			"en": "Elvish Gatherer",		
-			"fr": "Elvish Gatherer"		
+			"fr": "Cueilleur Elfique"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -3828,7 +3828,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Prayer to Nature",
-					"fr": ""
+					"fr": "Prières à la Nature"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -3841,7 +3841,7 @@
 		},			
 		"name": {			
 			"en": "Prayer to Nature",		
-			"fr": "Prayer to Nature"		
+			"fr": "Prières à la Nature"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -3867,7 +3867,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Forestblade Marauder",
-					"fr": ""
+					"fr": "Maraudeur à la Lame Sylvestre"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -3880,7 +3880,7 @@
 		},			
 		"name": {			
 			"en": "Forestblade Marauder",		
-			"fr": "Forestblade Marauder"		
+			"fr": "Maraudeur à la Lame Sylvestre"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -3906,7 +3906,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Sylvan Battlecaller",
-					"fr": ""
+					"fr": "Héraut de Guerre Sylvestre"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -3919,7 +3919,7 @@
 		},			
 		"name": {			
 			"en": "Sylvan Battlecaller",		
-			"fr": "Sylvan Battlecaller"		
+			"fr": "Héraut de Guerre Sylvestre"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -3945,7 +3945,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Verdant Surge",
-					"fr": ""
+					"fr": "Elan de Verdure"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -3958,7 +3958,7 @@
 		},			
 		"name": {			
 			"en": "Verdant Surge",		
-			"fr": "Verdant Surge"		
+			"fr": "Elan de Verdure"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -3984,7 +3984,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elvish Monarch",
-					"fr": ""
+					"fr": "Monarque Elfique"
 				},	
 				"type": "Creature",	
 				"cost": 9,	
@@ -3997,7 +3997,7 @@
 		},			
 		"name": {			
 			"en": "Elvish Monarch",		
-			"fr": "Elvish Monarch"		
+			"fr": "Monarque Elfique"		
 		},			
 		"type": "Creature",			
 		"cost": 9,			
@@ -4023,7 +4023,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Canopy Juggernaut",
-					"fr": ""
+					"fr": "Mastodonte de la Canopée"
 				},	
 				"type": "Creature",	
 				"cost": 12,	
@@ -4036,7 +4036,7 @@
 		},			
 		"name": {			
 			"en": "Canopy Juggernaut",		
-			"fr": "Canopy Juggernaut"		
+			"fr": "Mastodonte de la Canopée"		
 		},			
 		"type": "Creature",			
 		"cost": 12,			
@@ -4062,7 +4062,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Worldtree Awakening",
-					"fr": ""
+					"fr": "Eveil de l'Arbre-Monde"
 				},	
 				"type": "Spell",	
 				"cost": 14,	
@@ -4075,7 +4075,7 @@
 		},			
 		"name": {			
 			"en": "Worldtree Awakening",		
-			"fr": "Worldtree Awakening"		
+			"fr": "Eveil de l'Arbre-Monde"		
 		},			
 		"type": "Spell",			
 		"cost": 14,			
@@ -4101,7 +4101,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Renewing Winds",
-					"fr": ""
+					"fr": "Vents du Renouveau"
 				},	
 				"type": "Spell",	
 				"cost": 6,	
@@ -4114,7 +4114,7 @@
 		},			
 		"name": {			
 			"en": "Renewing Winds",		
-			"fr": "Renewing Winds"		
+			"fr": "Vents du Renouveau"		
 		},			
 		"type": "Spell",			
 		"cost": 6,			
@@ -4140,7 +4140,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Immovable Force",
-					"fr": ""
+					"fr": "Force Inébranlable"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -4153,7 +4153,7 @@
 		},			
 		"name": {			
 			"en": "Immovable Force",		
-			"fr": "Immovable Force"		
+			"fr": "Force Inébranlable"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -4179,7 +4179,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Invading Rodent",
-					"fr": ""
+					"fr": "Rongeur Invasif"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -4192,7 +4192,7 @@
 		},			
 		"name": {			
 			"en": "Invading Rodent",		
-			"fr": "Invading Rodent"		
+			"fr": "Rongeur Invasif"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -4218,7 +4218,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elvish Call",
-					"fr": ""
+					"fr": "Appel Elfique"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -4231,7 +4231,7 @@
 		},			
 		"name": {			
 			"en": "Elvish Call",		
-			"fr": "Elvish Call"		
+			"fr": "Appel Elfique"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -4257,7 +4257,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Guardian Treant",
-					"fr": ""
+					"fr": "Tréant Gardien"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -4270,7 +4270,7 @@
 		},			
 		"name": {			
 			"en": "Guardian Treant",		
-			"fr": "Guardian Treant"		
+			"fr": "Tréant Gardien"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -4295,8 +4295,8 @@
 		"face": {			
 			"front": {		
 				"name" : {	
-					"en": "Rejunevating Treant",
-					"fr": ""
+					"en": "Rejuvenating Treant",
+					"fr": "Tréant Rajeunissant"
 				},	
 				"type": "Creature",	
 				"cost": 6,	
@@ -4308,8 +4308,8 @@
 			}		
 		},			
 		"name": {			
-			"en": "Rejunevating Treant",		
-			"fr": "Rejunevating Treant"		
+			"en": "Rejuvenating Treant",		
+			"fr": "Tréant Rajeunissant"		
 		},			
 		"type": "Creature",			
 		"cost": 6,			
@@ -4335,7 +4335,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Cursed Treant",
-					"fr": ""
+					"fr": "Tréant Maudit"
 				},	
 				"type": "Creature",	
 				"cost": 7,	
@@ -4348,7 +4348,7 @@
 		},			
 		"name": {			
 			"en": "Cursed Treant",		
-			"fr": "Cursed Treant"		
+			"fr": "Tréant Maudit"		
 		},			
 		"type": "Creature",			
 		"cost": 7,			
@@ -4374,7 +4374,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Rallying Call",
-					"fr": ""
+					"fr": "Appel au Rassemblement"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -4387,7 +4387,7 @@
 		},			
 		"name": {			
 			"en": "Rallying Call",		
-			"fr": "Rallying Call"		
+			"fr": "Appel au Rassemblement"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -4413,7 +4413,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Verdant Initiate",
-					"fr": ""
+					"fr": "Initié de la Verdure"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -4426,7 +4426,7 @@
 		},			
 		"name": {			
 			"en": "Verdant Initiate",		
-			"fr": "Verdant Initiate"		
+			"fr": "Initié de la Verdure"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -4452,7 +4452,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Grovefather",
-					"fr": ""
+					"fr": "Père du Bosquet"
 				},	
 				"type": "Creature",	
 				"cost": 6,	
@@ -4465,7 +4465,7 @@
 		},			
 		"name": {			
 			"en": "Grovefather",		
-			"fr": "Grovefather"		
+			"fr": "Père du Bosquet"		
 		},			
 		"type": "Creature",			
 		"cost": 6,			
@@ -4491,7 +4491,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Growing Sprout",
-					"fr": ""
+					"fr": "Pousse en Croissance"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -4504,7 +4504,7 @@
 		},			
 		"name": {			
 			"en": "Growing Sprout",		
-			"fr": "Growing Sprout"		
+			"fr": "Pousse en Croissance"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -4530,7 +4530,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Ranger of the Grove",
-					"fr": ""
+					"fr": "Rôdeur du Bosquet"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -4543,7 +4543,7 @@
 		},			
 		"name": {			
 			"en": "Ranger of the Grove",		
-			"fr": "Ranger of the Grove"		
+			"fr": "Rôdeur du Bosquet"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -4569,7 +4569,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Cycle of Growth",
-					"fr": ""
+					"fr": "Cycle de Croissance"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -4582,7 +4582,7 @@
 		},			
 		"name": {			
 			"en": "Cycle of Growth",		
-			"fr": "Cycle of Growth"		
+			"fr": "Cycle de Croissance"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -4608,7 +4608,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Seasonal Change",
-					"fr": ""
+					"fr": "Changement Saisonnier"
 				},	
 				"type": "Spell",	
 				"cost": 7,	
@@ -4621,7 +4621,7 @@
 		},			
 		"name": {			
 			"en": "Seasonal Change",		
-			"fr": "Seasonal Change"		
+			"fr": "Changement Saisonnier"		
 		},			
 		"type": "Spell",			
 		"cost": 7,			
@@ -4647,7 +4647,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Elder Treant Arborus",
-					"fr": ""
+					"fr": "Ancien Tréant Arborus"
 				},	
 				"type": "Creature",	
 				"cost": 10,	
@@ -4660,7 +4660,7 @@
 		},			
 		"name": {			
 			"en": "Elder Treant Arborus",		
-			"fr": "Elder Treant Arborus"		
+			"fr": "Ancien Tréant Arborus"		
 		},			
 		"type": "Creature",			
 		"cost": 10,			
@@ -4686,7 +4686,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Shard of Ruin",
-					"fr": ""
+					"fr": "Eclat de Ruine"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -4699,7 +4699,7 @@
 		},			
 		"name": {			
 			"en": "Shard of Ruin",		
-			"fr": "Shard of Ruin"		
+			"fr": "Eclat de Ruine"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -4725,7 +4725,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Forsaken Relic",
-					"fr": ""
+					"fr": "Relique Oubliée"
 				},	
 				"type": "Mana",	
 				"cost": 0,	
@@ -4738,7 +4738,7 @@
 		},			
 		"name": {			
 			"en": "Forsaken Relic",		
-			"fr": "Forsaken Relic"		
+			"fr": "Relique Oubliée"		
 		},			
 		"type": "Mana",			
 		"cost": 0,			
@@ -4764,7 +4764,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Returnal",
-					"fr": ""
+					"fr": "Rappel"
 				},	
 				"type": "Spell",	
 				"cost": 2,	
@@ -4777,7 +4777,7 @@
 		},			
 		"name": {			
 			"en": "Returnal",		
-			"fr": "Returnal"		
+			"fr": "Rappel"		
 		},			
 		"type": "Spell",			
 		"cost": 2,			
@@ -4803,7 +4803,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Darkness Dweller",
-					"fr": ""
+					"fr": "Résident des Ténèbres"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -4816,7 +4816,7 @@
 		},			
 		"name": {			
 			"en": "Darkness Dweller",		
-			"fr": "Darkness Dweller"		
+			"fr": "Résident des Ténèbres"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -4842,7 +4842,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Dread Bone Lord",
-					"fr": ""
+					"fr": "Seigneur des Ossements"
 				},	
 				"type": "Creature",	
 				"cost": 7,	
@@ -4855,7 +4855,7 @@
 		},			
 		"name": {			
 			"en": "Dread Bone Lord",		
-			"fr": "Dread Bone Lord"		
+			"fr": "Seigneur des Ossements"		
 		},			
 		"type": "Creature",			
 		"cost": 7,			
@@ -4881,7 +4881,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Ghastly Remnant",
-					"fr": ""
+					"fr": "Vestige Fantomatique"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -4894,7 +4894,7 @@
 		},			
 		"name": {			
 			"en": "Ghastly Remnant",		
-			"fr": "Ghastly Remnant"		
+			"fr": "Vestige Fantomatique"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -4920,7 +4920,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Fractured Ritual",
-					"fr": ""
+					"fr": "Rituel Rompu"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -4933,7 +4933,7 @@
 		},			
 		"name": {			
 			"en": "Fractured Ritual",		
-			"fr": "Fractured Ritual"		
+			"fr": "Rituel Rompu"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -4959,7 +4959,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Broken Mind",
-					"fr": ""
+					"fr": "Esprit Brisé"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -4972,7 +4972,7 @@
 		},			
 		"name": {			
 			"en": "Broken Mind",		
-			"fr": "Broken Mind"		
+			"fr": "Esprit Brisé"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -4998,7 +4998,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Shattered Amalgam",
-					"fr": ""
+					"fr": "Amalgame Fracturé"
 				},	
 				"type": "Creature",	
 				"cost": 10,	
@@ -5011,7 +5011,7 @@
 		},			
 		"name": {			
 			"en": "Shattered Amalgam",		
-			"fr": "Shattered Amalgam"		
+			"fr": "Amalgame Fracturé"		
 		},			
 		"type": "Creature",			
 		"cost": 10,			
@@ -5037,7 +5037,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Grave Wisp",
-					"fr": ""
+					"fr": "Feu Follet Funéraire"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -5050,7 +5050,7 @@
 		},			
 		"name": {			
 			"en": "Grave Wisp",		
-			"fr": "Grave Wisp"		
+			"fr": "Feu Follet Funéraire"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -5076,7 +5076,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Devastation",
-					"fr": ""
+					"fr": "Dévastation"
 				},	
 				"type": "Spell",	
 				"cost": 6,	
@@ -5089,7 +5089,7 @@
 		},			
 		"name": {			
 			"en": "Devastation",		
-			"fr": "Devastation"		
+			"fr": "Dévastation"		
 		},			
 		"type": "Spell",			
 		"cost": 6,			
@@ -5115,7 +5115,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Spectral Lich",
-					"fr": ""
+					"fr": "Liche Spectrale"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -5128,7 +5128,7 @@
 		},			
 		"name": {			
 			"en": "Spectral Lich",		
-			"fr": "Spectral Lich"		
+			"fr": "Liche Spectrale"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -5154,7 +5154,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Echo of the Damned",
-					"fr": ""
+					"fr": "Echo des Damnés"
 				},	
 				"type": "Creature",	
 				"cost": 8,	
@@ -5167,7 +5167,7 @@
 		},			
 		"name": {			
 			"en": "Echo of the Damned",		
-			"fr": "Echo of the Damned"		
+			"fr": "Echo des Damnés"		
 		},			
 		"type": "Creature",			
 		"cost": 8,			
@@ -5193,7 +5193,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Soulbinder Wraith",
-					"fr": ""
+					"fr": "Etreigneur d'Âmes"
 				},	
 				"type": "Creature",	
 				"cost": 6,	
@@ -5206,7 +5206,7 @@
 		},			
 		"name": {			
 			"en": "Soulbinder Wraith",		
-			"fr": "Soulbinder Wraith"		
+			"fr": "Etreigneur d'Âmes"		
 		},			
 		"type": "Creature",			
 		"cost": 6,			
@@ -5232,7 +5232,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Shattered Storm",
-					"fr": ""
+					"fr": "Tempête Fracturée"
 				},	
 				"type": "Spell",	
 				"cost": 3,	
@@ -5245,7 +5245,7 @@
 		},			
 		"name": {			
 			"en": "Shattered Storm",		
-			"fr": "Shattered Storm"		
+			"fr": "Tempête Fracturée"		
 		},			
 		"type": "Spell",			
 		"cost": 3,			
@@ -5271,7 +5271,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Shatterbound Spirit",
-					"fr": ""
+					"fr": "Revenant Brisé"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -5284,7 +5284,7 @@
 		},			
 		"name": {			
 			"en": "Shatterbound Spirit",		
-			"fr": "Shatterbound Spirit"		
+			"fr": "Revenant Brisé"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
@@ -5310,7 +5310,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Mind Devouring Spirit",
-					"fr": ""
+					"fr": "Esprit Dévoreur de Conscience"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -5323,7 +5323,7 @@
 		},			
 		"name": {			
 			"en": "Mind Devouring Spirit",		
-			"fr": "Mind Devouring Spirit"		
+			"fr": "Esprit Dévoreur de Conscience"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -5349,7 +5349,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Soul Gathering",
-					"fr": ""
+					"fr": "Récolte d'Âmes"
 				},	
 				"type": "Spell",	
 				"cost": 1,	
@@ -5362,7 +5362,7 @@
 		},			
 		"name": {			
 			"en": "Soul Gathering",		
-			"fr": "Soul Gathering"		
+			"fr": "Récolte d'Âmes"		
 		},			
 		"type": "Spell",			
 		"cost": 1,			
@@ -5388,7 +5388,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Mourning Ghost",
-					"fr": ""
+					"fr": "Fantôme en Deuil"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -5401,7 +5401,7 @@
 		},			
 		"name": {			
 			"en": "Mourning Ghost",		
-			"fr": "Mourning Ghost"		
+			"fr": "Fantôme en Deuil"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -5427,7 +5427,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Wisp of Hollowness",
-					"fr": ""
+					"fr": "Feu Follet du Vide"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -5440,7 +5440,7 @@
 		},			
 		"name": {			
 			"en": "Wisp of Hollowness",		
-			"fr": "Wisp of Hollowness"		
+			"fr": "Feu Follet du Vide"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -5466,7 +5466,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Exploding Wisp",
-					"fr": ""
+					"fr": "Feu Follet Explosif"
 				},	
 				"type": "Creature",	
 				"cost": 4,	
@@ -5479,7 +5479,7 @@
 		},			
 		"name": {			
 			"en": "Exploding Wisp",		
-			"fr": "Exploding Wisp"		
+			"fr": "Feu Follet Explosif"		
 		},			
 		"type": "Creature",			
 		"cost": 4,			
@@ -5505,7 +5505,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Soulfinder",
-					"fr": ""
+					"fr": "Chercheur d'Âmes"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -5518,7 +5518,7 @@
 		},			
 		"name": {			
 			"en": "Soulfinder",		
-			"fr": "Soulfinder"		
+			"fr": "Chercheur d'Âmes"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -5544,7 +5544,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Ruinbringer",
-					"fr": ""
+					"fr": "Porteur de Ruine"
 				},	
 				"type": "Creature",	
 				"cost": 9,	
@@ -5557,7 +5557,7 @@
 		},			
 		"name": {			
 			"en": "Ruinbringer",		
-			"fr": "Ruinbringer"		
+			"fr": "Porteur de Ruine"		
 		},			
 		"type": "Creature",			
 		"cost": 9,			
@@ -5583,7 +5583,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Greedy Demon",
-					"fr": ""
+					"fr": "Démon Avare"
 				},	
 				"type": "Creature",	
 				"cost": 2,	
@@ -5596,7 +5596,7 @@
 		},			
 		"name": {			
 			"en": "Greedy Demon",		
-			"fr": "Greedy Demon"		
+			"fr": "Démon Avare"		
 		},			
 		"type": "Creature",			
 		"cost": 2,			
@@ -5622,7 +5622,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Echoing Grudge",
-					"fr": ""
+					"fr": "Rancoeur Persistante"
 				},	
 				"type": "Creature",	
 				"cost": 3,	
@@ -5635,7 +5635,7 @@
 		},			
 		"name": {			
 			"en": "Echoing Grudge",		
-			"fr": "Echoing Grudge"		
+			"fr": "Rancoeur Persistante"		
 		},			
 		"type": "Creature",			
 		"cost": 3,			
@@ -5661,7 +5661,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Devouring Abomination",
-					"fr": ""
+					"fr": "Abomination Dévorante"
 				},	
 				"type": "Creature",	
 				"cost": 20,	
@@ -5674,7 +5674,7 @@
 		},			
 		"name": {			
 			"en": "Devouring Abomination",		
-			"fr": "Devouring Abomination"		
+			"fr": "Abomination Dévorante"		
 		},			
 		"type": "Creature",			
 		"cost": 20,			
@@ -5700,7 +5700,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Rebirth",
-					"fr": ""
+					"fr": "Renaissance"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -5713,7 +5713,7 @@
 		},			
 		"name": {			
 			"en": "Rebirth",		
-			"fr": "Rebirth"		
+			"fr": "Renaissance"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -5739,7 +5739,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Fracturize",
-					"fr": ""
+					"fr": "Fracturer"
 				},	
 				"type": "Spell",	
 				"cost": 4,	
@@ -5752,7 +5752,7 @@
 		},			
 		"name": {			
 			"en": "Fracturize",		
-			"fr": "Fracturize"		
+			"fr": "Fracturer"		
 		},			
 		"type": "Spell",			
 		"cost": 4,			
@@ -5778,7 +5778,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Soulburst",
-					"fr": ""
+					"fr": "Explosion d'Âme"
 				},	
 				"type": "Spell",	
 				"cost": 5,	
@@ -5791,7 +5791,7 @@
 		},			
 		"name": {			
 			"en": "Soulburst",		
-			"fr": "Soulburst"		
+			"fr": "Explosion d'Âme"		
 		},			
 		"type": "Spell",			
 		"cost": 5,			
@@ -5817,7 +5817,7 @@
 			"front": {		
 				"name" : {	
 					"en": "Rogue Necromancer Malakar",
-					"fr": ""
+					"fr": "Malakar, Nécromancien Rénégat"
 				},	
 				"type": "Creature",	
 				"cost": 5,	
@@ -5830,7 +5830,7 @@
 		},			
 		"name": {			
 			"en": "Rogue Necromancer Malakar",		
-			"fr": "Rogue Necromancer Malakar"		
+			"fr": "Malakar, Nécromancien Rénégat"		
 		},			
 		"type": "Creature",			
 		"cost": 5,			
