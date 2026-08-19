@@ -11,7 +11,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-01.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-01.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-01.png"
 				},	
 				"isHorizontal": false	
@@ -50,7 +50,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-02.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-02.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-02.png"
 				},	
 				"isHorizontal": false	
@@ -89,7 +89,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-03.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-03.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-03.png"
 				},	
 				"isHorizontal": false	
@@ -128,7 +128,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-04.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-04.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-04.png"
 				},	
 				"isHorizontal": false	
@@ -167,7 +167,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-05.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-05.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-05.png"
 				},	
 				"isHorizontal": false	
@@ -206,7 +206,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-06.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-06.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-06.png"
 				},	
 				"isHorizontal": false	
@@ -245,7 +245,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-07.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-07.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-07.png"
 				},	
 				"isHorizontal": false	
@@ -284,7 +284,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-08.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-08.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-08.png"
 				},	
 				"isHorizontal": false	
@@ -323,7 +323,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-09.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-09.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-09.png"
 				},	
 				"isHorizontal": false	
@@ -362,7 +362,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-10.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-10.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-10.png"
 				},	
 				"isHorizontal": false	
@@ -401,7 +401,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-11.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-11.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-11.png"
 				},	
 				"isHorizontal": false	
@@ -440,7 +440,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-12.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-12.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-12.png"
 				},	
 				"isHorizontal": false	
@@ -479,7 +479,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-13.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-13.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-13.png"
 				},	
 				"isHorizontal": false	
@@ -518,7 +518,7 @@
 				"type": "Creature",	
 				"cost": 7,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-14.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-14.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-14.png"
 				},	
 				"isHorizontal": false	
@@ -557,7 +557,7 @@
 				"type": "Spell",	
 				"cost": 10,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-15.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-15.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-15.png"
 				},	
 				"isHorizontal": false	
@@ -596,7 +596,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-16.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-16.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-16.png"
 				},	
 				"isHorizontal": false	
@@ -635,7 +635,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-17.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-17.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-17.png"
 				},	
 				"isHorizontal": false	
@@ -674,7 +674,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-18.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-18.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-18.png"
 				},	
 				"isHorizontal": false	
@@ -713,7 +713,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-19.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-19.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-19.png"
 				},	
 				"isHorizontal": false	
@@ -752,7 +752,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-20.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-20.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-20.png"
 				},	
 				"isHorizontal": false	
@@ -791,7 +791,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-21.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-21.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-21.png"
 				},	
 				"isHorizontal": false	
@@ -830,7 +830,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-22.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-22.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-22.png"
 				},	
 				"isHorizontal": false	
@@ -869,7 +869,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-23.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-23.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-23.png"
 				},	
 				"isHorizontal": false	
@@ -908,7 +908,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-24.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-24.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-24.png"
 				},	
 				"isHorizontal": false	
@@ -947,7 +947,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-25.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-25.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-25.png"
 				},	
 				"isHorizontal": false	
@@ -986,7 +986,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-26.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-26.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-26.png"
 				},	
 				"isHorizontal": false	
@@ -1025,7 +1025,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-27.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-27.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-27.png"
 				},	
 				"isHorizontal": false	
@@ -1064,7 +1064,7 @@
 				"type": "Spell",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-28.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-28.png"
 				},	
 				"isHorizontal": false	
@@ -1103,7 +1103,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-29.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-29.png"
 				},	
 				"isHorizontal": false	
@@ -1142,7 +1142,7 @@
 				"type": "Creature",	
 				"cost": 10,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-01-30.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-01-30.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-01-30.png"
 				},	
 				"isHorizontal": false	
@@ -1181,7 +1181,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-01.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-01.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-01.png"
 				},	
 				"isHorizontal": false	
@@ -1220,7 +1220,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-02.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-02.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-02.png"
 				},	
 				"isHorizontal": false	
@@ -1259,7 +1259,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-03.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-03.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-03.png"
 				},	
 				"isHorizontal": false	
@@ -1298,7 +1298,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-04.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-04.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-04.png"
 				},	
 				"isHorizontal": false	
@@ -1337,7 +1337,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-05.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-05.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-05.png"
 				},	
 				"isHorizontal": false	
@@ -1376,7 +1376,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-06.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-06.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-06.png"
 				},	
 				"isHorizontal": false	
@@ -1415,7 +1415,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-07.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-07.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-07.png"
 				},	
 				"isHorizontal": false	
@@ -1454,7 +1454,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-08.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-08.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-08.png"
 				},	
 				"isHorizontal": false	
@@ -1493,7 +1493,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-09.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-09.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-09.png"
 				},	
 				"isHorizontal": false	
@@ -1532,7 +1532,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-10.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-10.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-10.png"
 				},	
 				"isHorizontal": false	
@@ -1571,7 +1571,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-11.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-11.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-11.png"
 				},	
 				"isHorizontal": false	
@@ -1610,7 +1610,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-12.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-12.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-12.png"
 				},	
 				"isHorizontal": false	
@@ -1649,7 +1649,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-13.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-13.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-13.png"
 				},	
 				"isHorizontal": false	
@@ -1688,7 +1688,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-14.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-14.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-14.png"
 				},	
 				"isHorizontal": false	
@@ -1727,7 +1727,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-15.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-15.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-15.png"
 				},	
 				"isHorizontal": false	
@@ -1766,7 +1766,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-16.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-16.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-16.png"
 				},	
 				"isHorizontal": false	
@@ -1805,7 +1805,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-17.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-17.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-17.png"
 				},	
 				"isHorizontal": false	
@@ -1844,7 +1844,7 @@
 				"type": "Creature",	
 				"cost": 16,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-18.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-18.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-18.png"
 				},	
 				"isHorizontal": false	
@@ -1883,7 +1883,7 @@
 				"type": "Spell",	
 				"cost": 16,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-19.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-19.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-19.png"
 				},	
 				"isHorizontal": false	
@@ -1922,7 +1922,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-20.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-20.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-20.png"
 				},	
 				"isHorizontal": false	
@@ -1961,7 +1961,7 @@
 				"type": "Creature",	
 				"cost": 9,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-21.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-21.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-21.png"
 				},	
 				"isHorizontal": false	
@@ -2000,7 +2000,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-22.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-22.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-22.png"
 				},	
 				"isHorizontal": false	
@@ -2039,7 +2039,7 @@
 				"type": "Spell",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-23.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-23.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-23.png"
 				},	
 				"isHorizontal": false	
@@ -2078,7 +2078,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-24.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-24.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-24.png"
 				},	
 				"isHorizontal": false	
@@ -2117,7 +2117,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-25.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-25.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-25.png"
 				},	
 				"isHorizontal": false	
@@ -2156,7 +2156,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-26.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-26.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-26.png"
 				},	
 				"isHorizontal": false	
@@ -2195,7 +2195,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-27.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-27.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-27.png"
 				},	
 				"isHorizontal": false	
@@ -2234,7 +2234,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-28.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-28.png"
 				},	
 				"isHorizontal": false	
@@ -2273,7 +2273,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-29.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-29.png"
 				},	
 				"isHorizontal": false	
@@ -2312,7 +2312,7 @@
 				"type": "Creature",	
 				"cost": 7,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-02-30.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-02-30.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-02-30.png"
 				},	
 				"isHorizontal": false	
@@ -2351,7 +2351,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-01.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-01.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-01.png"
 				},	
 				"isHorizontal": false	
@@ -2390,7 +2390,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-02.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-02.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-02.png"
 				},	
 				"isHorizontal": false	
@@ -2429,7 +2429,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-03.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-03.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-03.png"
 				},	
 				"isHorizontal": false	
@@ -2468,7 +2468,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-04.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-04.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-04.png"
 				},	
 				"isHorizontal": false	
@@ -2507,7 +2507,7 @@
 				"type": "Spell",	
 				"cost": 25,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-05.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-05.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-05.png"
 				},	
 				"isHorizontal": false	
@@ -2546,7 +2546,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-06.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-06.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-06.png"
 				},	
 				"isHorizontal": false	
@@ -2585,7 +2585,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-07.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-07.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-07.png"
 				},	
 				"isHorizontal": false	
@@ -2624,7 +2624,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-08.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-08.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-08.png"
 				},	
 				"isHorizontal": false	
@@ -2663,7 +2663,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-09.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-09.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-09.png"
 				},	
 				"isHorizontal": false	
@@ -2702,7 +2702,7 @@
 				"type": "Spell",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-10.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-10.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-10.png"
 				},	
 				"isHorizontal": false	
@@ -2741,7 +2741,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-11.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-11.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-11.png"
 				},	
 				"isHorizontal": false	
@@ -2780,7 +2780,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-12.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-12.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-12.png"
 				},	
 				"isHorizontal": false	
@@ -2819,7 +2819,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-13.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-13.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-13.png"
 				},	
 				"isHorizontal": false	
@@ -2858,7 +2858,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-14.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-14.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-14.png"
 				},	
 				"isHorizontal": false	
@@ -2897,7 +2897,7 @@
 				"type": "Creature",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-15.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-15.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-15.png"
 				},	
 				"isHorizontal": false	
@@ -2936,7 +2936,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-16.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-16.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-16.png"
 				},	
 				"isHorizontal": false	
@@ -2975,7 +2975,7 @@
 				"type": "Spell",	
 				"cost": 9,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-17.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-17.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-17.png"
 				},	
 				"isHorizontal": false	
@@ -3014,7 +3014,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-18.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-18.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-18.png"
 				},	
 				"isHorizontal": false	
@@ -3053,7 +3053,7 @@
 				"type": "Spell",	
 				"cost": 10,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-19.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-19.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-19.png"
 				},	
 				"isHorizontal": false	
@@ -3092,7 +3092,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-20.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-20.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-20.png"
 				},	
 				"isHorizontal": false	
@@ -3131,7 +3131,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-21.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-21.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-21.png"
 				},	
 				"isHorizontal": false	
@@ -3150,7 +3150,7 @@
 			"CS01"		
 		],			
 		"Sub-type": "Merman",			
-		"ATK": 3,			
+		"ATK": 4,			
 		"HP": 3,			
 		"_legal": {			
 			"CLA": 4,		
@@ -3170,7 +3170,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-22.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-22.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-22.png"
 				},	
 				"isHorizontal": false	
@@ -3209,7 +3209,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-23.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-23.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-23.png"
 				},	
 				"isHorizontal": false	
@@ -3248,7 +3248,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-24.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-24.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-24.png"
 				},	
 				"isHorizontal": false	
@@ -3287,7 +3287,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-25.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-25.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-25.png"
 				},	
 				"isHorizontal": false	
@@ -3326,7 +3326,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-26.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-26.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-26.png"
 				},	
 				"isHorizontal": false	
@@ -3365,7 +3365,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-27.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-27.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-27.png"
 				},	
 				"isHorizontal": false	
@@ -3404,7 +3404,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-28.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-28.png"
 				},	
 				"isHorizontal": false	
@@ -3443,7 +3443,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-29.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-29.png"
 				},	
 				"isHorizontal": false	
@@ -3482,7 +3482,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-03-30.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-03-30.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-03-30.png"
 				},	
 				"isHorizontal": false	
@@ -3521,7 +3521,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-01.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-01.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-01.png"
 				},	
 				"isHorizontal": false	
@@ -3560,7 +3560,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-02.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-02.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-02.png"
 				},	
 				"isHorizontal": false	
@@ -3597,9 +3597,9 @@
 					"fr": "Manifestation de Vie"
 				},	
 				"type": "Spell",	
-				"cost": 6,	
+				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-03.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-03.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-03.png"
 				},	
 				"isHorizontal": false	
@@ -3610,7 +3610,7 @@
 			"fr": "Manifestation de Vie"		
 		},			
 		"type": "Spell",			
-		"cost": 6,			
+		"cost": 4,			
 		"Faction": [			
 			"Verdant Coalition"		
 		],			
@@ -3638,7 +3638,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-04.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-04.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-04.png"
 				},	
 				"isHorizontal": false	
@@ -3677,7 +3677,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-05.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-05.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-05.png"
 				},	
 				"isHorizontal": false	
@@ -3716,7 +3716,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-06.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-06.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-06.png"
 				},	
 				"isHorizontal": false	
@@ -3755,7 +3755,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-07.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-07.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-07.png"
 				},	
 				"isHorizontal": false	
@@ -3794,7 +3794,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-08.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-08.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-08.png"
 				},	
 				"isHorizontal": false	
@@ -3833,7 +3833,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-09.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-09.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-09.png"
 				},	
 				"isHorizontal": false	
@@ -3872,7 +3872,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-10.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-10.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-10.png"
 				},	
 				"isHorizontal": false	
@@ -3911,7 +3911,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-11.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-11.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-11.png"
 				},	
 				"isHorizontal": false	
@@ -3950,7 +3950,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-12.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-12.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-12.png"
 				},	
 				"isHorizontal": false	
@@ -3989,7 +3989,7 @@
 				"type": "Creature",	
 				"cost": 9,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-13.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-13.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-13.png"
 				},	
 				"isHorizontal": false	
@@ -4028,7 +4028,7 @@
 				"type": "Creature",	
 				"cost": 12,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-14.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-14.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-14.png"
 				},	
 				"isHorizontal": false	
@@ -4067,7 +4067,7 @@
 				"type": "Spell",	
 				"cost": 14,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-15.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-15.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-15.png"
 				},	
 				"isHorizontal": false	
@@ -4106,7 +4106,7 @@
 				"type": "Spell",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-16.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-16.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-16.png"
 				},	
 				"isHorizontal": false	
@@ -4145,7 +4145,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-17.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-17.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-17.png"
 				},	
 				"isHorizontal": false	
@@ -4184,7 +4184,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-18.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-18.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-18.png"
 				},	
 				"isHorizontal": false	
@@ -4223,7 +4223,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-19.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-19.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-19.png"
 				},	
 				"isHorizontal": false	
@@ -4262,7 +4262,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-20.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-20.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-20.png"
 				},	
 				"isHorizontal": false	
@@ -4301,7 +4301,7 @@
 				"type": "Creature",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-21.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-21.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-21.png"
 				},	
 				"isHorizontal": false	
@@ -4340,7 +4340,7 @@
 				"type": "Creature",	
 				"cost": 7,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-22.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-22.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-22.png"
 				},	
 				"isHorizontal": false	
@@ -4379,7 +4379,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-23.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-23.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-23.png"
 				},	
 				"isHorizontal": false	
@@ -4418,7 +4418,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-24.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-24.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-24.png"
 				},	
 				"isHorizontal": false	
@@ -4457,7 +4457,7 @@
 				"type": "Creature",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-25.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-25.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-25.png"
 				},	
 				"isHorizontal": false	
@@ -4496,7 +4496,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-26.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-26.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-26.png"
 				},	
 				"isHorizontal": false	
@@ -4535,7 +4535,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-27.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-27.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-27.png"
 				},	
 				"isHorizontal": false	
@@ -4574,7 +4574,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-28.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-28.png"
 				},	
 				"isHorizontal": false	
@@ -4613,7 +4613,7 @@
 				"type": "Spell",	
 				"cost": 7,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-29.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-29.png"
 				},	
 				"isHorizontal": false	
@@ -4652,7 +4652,7 @@
 				"type": "Creature",	
 				"cost": 10,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-04-30.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-04-30.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-04-30.png"
 				},	
 				"isHorizontal": false	
@@ -4691,7 +4691,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-01.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-01.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-01.png"
 				},	
 				"isHorizontal": false	
@@ -4730,7 +4730,7 @@
 				"type": "Mana",	
 				"cost": 0,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-02.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-02.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-02.png"
 				},	
 				"isHorizontal": false	
@@ -4769,7 +4769,7 @@
 				"type": "Spell",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-03.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-03.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-03.png"
 				},	
 				"isHorizontal": false	
@@ -4808,7 +4808,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-04.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-04.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-04.png"
 				},	
 				"isHorizontal": false	
@@ -4847,7 +4847,7 @@
 				"type": "Creature",	
 				"cost": 7,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-05.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-05.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-05.png"
 				},	
 				"isHorizontal": false	
@@ -4886,7 +4886,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-06.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-06.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-06.png"
 				},	
 				"isHorizontal": false	
@@ -4925,7 +4925,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-07.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-07.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-07.png"
 				},	
 				"isHorizontal": false	
@@ -4964,7 +4964,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-08.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-08.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-08.png"
 				},	
 				"isHorizontal": false	
@@ -5001,9 +5001,9 @@
 					"fr": "Amalgame Fracturé"
 				},	
 				"type": "Creature",	
-				"cost": 10,	
+				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-09.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-09.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-09.png"
 				},	
 				"isHorizontal": false	
@@ -5014,7 +5014,7 @@
 			"fr": "Amalgame Fracturé"		
 		},			
 		"type": "Creature",			
-		"cost": 10,			
+		"cost": 8,			
 		"Faction": [			
 			"Shattered Remnants"		
 		],			
@@ -5042,7 +5042,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-10.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-10.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-10.png"
 				},	
 				"isHorizontal": false	
@@ -5081,7 +5081,7 @@
 				"type": "Spell",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-11.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-11.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-11.png"
 				},	
 				"isHorizontal": false	
@@ -5120,7 +5120,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-12.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-12.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-12.png"
 				},	
 				"isHorizontal": false	
@@ -5159,7 +5159,7 @@
 				"type": "Creature",	
 				"cost": 8,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-13.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-13.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-13.png"
 				},	
 				"isHorizontal": false	
@@ -5198,7 +5198,7 @@
 				"type": "Creature",	
 				"cost": 6,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-14.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-14.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-14.png"
 				},	
 				"isHorizontal": false	
@@ -5237,7 +5237,7 @@
 				"type": "Spell",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-15.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-15.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-15.png"
 				},	
 				"isHorizontal": false	
@@ -5276,7 +5276,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-16.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-16.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-16.png"
 				},	
 				"isHorizontal": false	
@@ -5315,7 +5315,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-17.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-17.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-17.png"
 				},	
 				"isHorizontal": false	
@@ -5354,7 +5354,7 @@
 				"type": "Spell",	
 				"cost": 1,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-18.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-18.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-18.png"
 				},	
 				"isHorizontal": false	
@@ -5393,7 +5393,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-19.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-19.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-19.png"
 				},	
 				"isHorizontal": false	
@@ -5432,7 +5432,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-20.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-20.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-20.png"
 				},	
 				"isHorizontal": false	
@@ -5471,7 +5471,7 @@
 				"type": "Creature",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-21.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-21.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-21.png"
 				},	
 				"isHorizontal": false	
@@ -5510,7 +5510,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-22.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-22.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-22.png"
 				},	
 				"isHorizontal": false	
@@ -5549,7 +5549,7 @@
 				"type": "Creature",	
 				"cost": 9,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-23.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-23.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-23.png"
 				},	
 				"isHorizontal": false	
@@ -5588,7 +5588,7 @@
 				"type": "Creature",	
 				"cost": 2,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-24.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-24.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-24.png"
 				},	
 				"isHorizontal": false	
@@ -5627,7 +5627,7 @@
 				"type": "Creature",	
 				"cost": 3,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-25.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-25.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-25.png"
 				},	
 				"isHorizontal": false	
@@ -5666,7 +5666,7 @@
 				"type": "Creature",	
 				"cost": 20,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-26.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-26.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-26.png"
 				},	
 				"isHorizontal": false	
@@ -5705,7 +5705,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-27.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-27.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-27.png"
 				},	
 				"isHorizontal": false	
@@ -5744,7 +5744,7 @@
 				"type": "Spell",	
 				"cost": 4,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-28.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-28.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-28.png"
 				},	
 				"isHorizontal": false	
@@ -5783,7 +5783,7 @@
 				"type": "Spell",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-29.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-29.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-29.png"
 				},	
 				"isHorizontal": false	
@@ -5822,7 +5822,7 @@
 				"type": "Creature",	
 				"cost": 5,	
 				"image": {	
-					"en": "https://marcherfu.github.io/EldaraTCG/IMG/CS01-05-30.png",
+					"en": "https://marcherfu.github.io/EldaraTCG/IMG/EN/CS01-05-30.png",
 					"fr": "https://marcherfu.github.io/EldaraTCG/IMG/FR/CS01-05-30.png"
 				},	
 				"isHorizontal": false	
@@ -5849,4 +5849,4 @@
 			"2v2": 4		
 		}			
 	}				
-}					
+}
